@@ -1,0 +1,5 @@
+customer_type,customers,pct_of_customers
+1 order (one-time),11,1.38
+2-4 orders,215,27.04
+5-9 orders,410,51.57
+10+ orders,159,20.0

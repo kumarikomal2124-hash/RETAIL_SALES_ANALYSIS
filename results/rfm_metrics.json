@@ -1,0 +1,144 @@
+{
+  "reference_date": "2012-12-31",
+  "n_customers": 795,
+  "score_ranges": {
+    "Recency (days) min": {
+      "1": 379,
+      "2": 215,
+      "3": 118,
+      "4": 60,
+      "5": 1
+    },
+    "Recency (days) max": {
+      "1": 1431,
+      "2": 379,
+      "3": 214,
+      "4": 117,
+      "5": 60
+    },
+    "Frequency (orders) min": {
+      "1": 1,
+      "2": 4,
+      "3": 5,
+      "4": 7,
+      "5": 10
+    },
+    "Frequency (orders) max": {
+      "1": 4,
+      "2": 5,
+      "3": 7,
+      "4": 9,
+      "5": 26
+    },
+    "Monetary ($) min": {
+      "1": 86,
+      "2": 6032,
+      "3": 11813,
+      "4": 18834,
+      "5": 28774
+    },
+    "Monetary ($) max": {
+      "1": 6014,
+      "2": 11784,
+      "3": 18807,
+      "4": 28599,
+      "5": 117124
+    }
+  },
+  "profile": [
+    {
+      "segment": "High-Value (Champions)",
+      "customers": 127,
+      "avg_recency_days": 55.02,
+      "avg_frequency": 12.01,
+      "avg_monetary": 38554.49,
+      "total_revenue": 4896419.99,
+      "total_profit": 584146.53,
+      "customer_share_pct": 15.97,
+      "revenue_share_pct": 32.83,
+      "margin_pct": 11.93,
+      "recommended_action": "Reward with VIP/loyalty tier, early access to new products, ask for referrals; avoid unnecessary discounts."
+    },
+    {
+      "segment": "Loyal Customers",
+      "customers": 117,
+      "avg_recency_days": 111.86,
+      "avg_frequency": 9.46,
+      "avg_monetary": 20483.81,
+      "total_revenue": 2396605.74,
+      "total_profit": 204897.73,
+      "customer_share_pct": 14.72,
+      "revenue_share_pct": 16.07,
+      "margin_pct": 8.55,
+      "recommended_action": "Upsell higher-value Technology items, offer bundles and membership benefits to move them to Champions."
+    },
+    {
+      "segment": "Potential Loyalists",
+      "customers": 184,
+      "avg_recency_days": 101.74,
+      "avg_frequency": 5.55,
+      "avg_monetary": 15196.73,
+      "total_revenue": 2796199.14,
+      "total_profit": 239054.58,
+      "customer_share_pct": 23.14,
+      "revenue_share_pct": 18.75,
+      "margin_pct": 8.55,
+      "recommended_action": "Personalised recommendations, loyalty-programme enrolment, follow-up after each purchase."
+    },
+    {
+      "segment": "New Customers",
+      "customers": 5,
+      "avg_recency_days": 139.0,
+      "avg_frequency": 2.6,
+      "avg_monetary": 15309.85,
+      "total_revenue": 76549.24,
+      "total_profit": 4418.65,
+      "customer_share_pct": 0.63,
+      "revenue_share_pct": 0.51,
+      "margin_pct": 5.77,
+      "recommended_action": "Onboarding communication, a time-limited second-purchase incentive, product guidance."
+    },
+    {
+      "segment": "Need Attention",
+      "customers": 46,
+      "avg_recency_days": 97.85,
+      "avg_frequency": 3.24,
+      "avg_monetary": 5651.4,
+      "total_revenue": 259964.62,
+      "total_profit": 7873.97,
+      "customer_share_pct": 5.79,
+      "revenue_share_pct": 1.74,
+      "margin_pct": 3.03,
+      "recommended_action": "Targeted reminders and category-specific offers based on their past purchase."
+    },
+    {
+      "segment": "At-Risk Customers",
+      "customers": 133,
+      "avg_recency_days": 357.06,
+      "avg_frequency": 8.06,
+      "avg_monetary": 21028.96,
+      "total_revenue": 2796852.09,
+      "total_profit": 289491.55,
+      "customer_share_pct": 16.73,
+      "revenue_share_pct": 18.75,
+      "margin_pct": 10.35,
+      "recommended_action": "Win-back campaign: personal outreach, feedback survey, a carefully limited reactivation offer."
+    },
+    {
+      "segment": "Hibernating / Lost",
+      "customers": 183,
+      "avg_recency_days": 516.09,
+      "avg_frequency": 3.44,
+      "avg_monetary": 9251.42,
+      "total_revenue": 1693010.01,
+      "total_profit": 191884.97,
+      "customer_share_pct": 23.02,
+      "revenue_share_pct": 11.35,
+      "margin_pct": 11.33,
+      "recommended_action": "Low-cost automated re-engagement only; do not spend heavily; remove from expensive campaigns if no response."
+    }
+  ],
+  "top2_revenue_share_pct": 48.9,
+  "top2_customer_share_pct": 30.7,
+  "at_risk_revenue": 2796852.09
+}

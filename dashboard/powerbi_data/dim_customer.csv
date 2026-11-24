@@ -1,0 +1,796 @@
+customer_key,customer_name,recency,frequency,lifetime_sales,R,F,M,RFM_score,rfm_segment,main_business_segment,first_order,last_order,rfm_segment_order
+1,Aaron Bergman,583,5,11630.59,1,2,2,122,Hibernating / Lost,Corporate,2009-07-01,2011-05-28,7
+2,Aaron Hawkins,368,9,27690.7255,2,4,4,244,At-Risk Customers,Home Office,2009-08-15,2011-12-29,6
+3,Aaron Smayling,347,8,8835.3235,2,4,2,242,At-Risk Customers,Small Business,2009-01-21,2012-01-19,6
+4,Adam Bellavance,90,8,11577.58,4,4,2,442,Loyal Customers,Small Business,2009-05-15,2012-10-02,2
+5,Adam Hart,20,18,26114.2645,5,5,4,554,High-Value (Champions),Corporate,2009-01-28,2012-12-11,1
+6,Adam Shillingsburg,508,10,20059.675499999998,1,5,4,154,At-Risk Customers,Corporate,2009-02-22,2011-08-11,6
+7,Adrian Barton,217,2,23088.534499999998,2,1,4,214,Hibernating / Lost,Small Business,2011-11-27,2012-05-28,7
+8,Adrian Hane,202,3,795.8199999999999,3,1,1,311,Need Attention,Corporate,2010-07-03,2012-06-12,5
+9,Adrian Shami,35,5,4615.54,5,2,1,521,Potential Loyalists,Consumer,2009-11-10,2012-11-26,3
+10,Aimee Bixby,465,2,2913.65,1,1,1,111,Hibernating / Lost,Home Office,2011-02-24,2011-09-23,7
+11,Alan Barnes,86,10,17328.985500000003,4,5,3,453,Loyal Customers,Corporate,2009-01-11,2012-10-06,2
+12,Alan Dominguez,316,5,16282.756500000001,2,2,3,223,Hibernating / Lost,Corporate,2009-07-28,2012-02-19,7
+13,Alan Haines,4,8,28060.799,5,4,4,544,High-Value (Champions),Consumer,2009-10-20,2012-12-27,1
+14,Alan Hwang,50,17,26217.9035,5,5,4,554,High-Value (Champions),Corporate,2009-03-02,2012-11-11,1
+15,Alan Schoenberger,202,5,44571.925,3,2,5,325,Potential Loyalists,Corporate,2009-01-02,2012-06-12,3
+16,Alan Shonely,64,4,5907.208500000001,4,1,1,411,Need Attention,Small Business,2011-04-11,2012-10-28,5
+17,Alejandro Ballentine,362,5,15672.3915,2,2,3,223,Hibernating / Lost,Small Business,2010-02-06,2012-01-04,7
+18,Alejandro Grove,121,9,83561.93,3,4,5,345,Loyal Customers,Corporate,2009-02-02,2012-09-01,2
+19,Alejandro Savely,749,4,16337.61,1,1,3,113,Hibernating / Lost,Corporate,2009-06-03,2010-12-13,7
+20,Aleksandra Gannaway,379,10,22097.6275,1,5,4,154,At-Risk Customers,Corporate,2009-05-17,2011-12-18,6
+21,Alex Avila,22,9,19583.8605,5,4,4,544,High-Value (Champions),Home Office,2009-11-03,2012-12-09,1
+22,Alex Grayson,321,7,25658.761,2,3,4,234,At-Risk Customers,Consumer,2009-04-06,2012-02-14,6
+23,Alex Russell,5,8,7813.323,5,4,2,542,Loyal Customers,Home Office,2009-01-03,2012-12-26,2
+24,Alice McCarthy,257,7,12924.485999999999,2,3,3,233,At-Risk Customers,Corporate,2009-07-12,2012-04-18,6
+25,Allen Armold,123,4,6410.46,3,1,2,312,Need Attention,Home Office,2009-10-09,2012-08-30,5
+26,Allen Golden,124,4,4582.392,3,1,1,311,Need Attention,Consumer,2010-09-10,2012-08-29,5
+27,Allen Rosenblatt,32,6,6367.808499999999,5,3,2,532,Potential Loyalists,Small Business,2009-07-27,2012-11-29,3
+28,Alyssa Crouse,31,6,10921.692,5,3,2,532,Potential Loyalists,Corporate,2010-03-14,2012-11-30,3
+29,Alyssa Tate,326,5,1235.3125,2,2,1,221,Hibernating / Lost,Small Business,2009-05-02,2012-02-09,7
+30,Amy Cox,220,12,11448.06,2,5,2,252,At-Risk Customers,Small Business,2009-01-15,2012-05-25,6
+31,Amy Hunt,62,16,26205.3895,4,5,4,454,High-Value (Champions),Home Office,2009-01-15,2012-10-30,1
+32,Andrew Allen,333,5,8006.9605,2,2,2,222,Hibernating / Lost,Corporate,2009-01-21,2012-02-02,7
+33,Andrew Gjertsen,114,3,1406.3400000000001,4,1,1,411,Need Attention,Consumer,2010-06-04,2012-09-08,5
+34,Andrew Roberts,40,9,24823.956,5,4,4,544,High-Value (Champions),Home Office,2009-07-02,2012-11-21,1
+35,Andy Gerbode,380,5,11498.087,1,2,2,122,Hibernating / Lost,Consumer,2009-01-11,2011-12-17,7
+36,Andy Reiter,145,6,37037.880000000005,3,3,5,335,Potential Loyalists,Corporate,2009-01-03,2012-08-08,3
+37,Andy Yotov,873,3,2635.35,1,1,1,111,Hibernating / Lost,Corporate,2010-04-20,2010-08-11,7
+38,Anemone Ratner,88,6,11764.877499999999,4,3,2,432,Potential Loyalists,Small Business,2010-02-26,2012-10-04,3
+39,Angele Hood,57,3,15650.15,5,1,3,513,Need Attention,Consumer,2009-12-12,2012-11-04,5
+40,Ann Blume,8,7,7060.98,5,3,2,532,Potential Loyalists,Small Business,2009-02-21,2012-12-23,3
+41,Ann Chong,303,3,7276.6235,2,1,2,212,Hibernating / Lost,Corporate,2009-08-12,2012-03-03,7
+42,Ann Steele,22,7,14490.0185,5,3,3,533,Potential Loyalists,Corporate,2009-01-03,2012-12-09,3
+43,Anna Andreadi,2,7,9639.532,5,3,2,532,Potential Loyalists,Small Business,2009-10-02,2012-12-29,3
+44,Anna Chung,120,3,1310.385,3,1,1,311,Need Attention,Home Office,2009-03-18,2012-09-02,5
+45,Anna Gayman,1055,3,1736.1285,1,1,1,111,Hibernating / Lost,Corporate,2009-04-27,2010-02-10,7
+46,Anna Haberlin,489,4,10000.316499999999,1,1,2,112,Hibernating / Lost,Corporate,2010-05-16,2011-08-30,7
+47,Anne McFarland,305,2,459.93,2,1,1,211,Hibernating / Lost,Consumer,2011-01-21,2012-03-01,7
+48,Anne Pryor,166,12,27215.451,3,5,4,354,Loyal Customers,Consumer,2009-07-06,2012-07-18,2
+49,Annie Cyprus,488,4,6874.5905,1,1,2,112,Hibernating / Lost,Home Office,2010-06-27,2011-08-31,7
+50,Annie Thurman,10,12,16764.8725,5,5,3,553,Loyal Customers,Home Office,2009-12-09,2012-12-21,2
+51,Anthony Garverick,682,7,12532.4705,1,3,3,133,At-Risk Customers,Small Business,2009-04-02,2011-02-18,6
+52,Anthony Jacobs,726,1,1029.47,1,1,1,111,Hibernating / Lost,Home Office,2011-01-05,2011-01-05,7
+53,Anthony Johnson,500,7,11276.62,1,3,2,132,At-Risk Customers,Small Business,2009-02-05,2011-08-19,6
+54,Anthony O'Donnell,100,8,25261.2195,4,4,4,444,High-Value (Champions),Consumer,2009-02-22,2012-09-22,1
+55,Anthony Rawles,67,10,33418.649,4,5,5,455,High-Value (Champions),Small Business,2009-04-20,2012-10-25,1
+56,Anthony Witt,7,4,11434.64,5,1,2,512,New Customers,Corporate,2012-02-19,2012-12-24,4
+57,Arianne Irving,353,7,9516.262999999999,2,3,2,232,At-Risk Customers,Corporate,2009-08-23,2012-01-13,6
+58,Art Ferguson,29,7,23839.863999999998,5,3,4,534,Potential Loyalists,Corporate,2009-11-28,2012-12-02,3
+59,Art Foster,3,11,19002.9675,5,5,4,554,High-Value (Champions),Home Office,2009-01-31,2012-12-28,1
+60,Art Miller,259,8,25643.8315,2,4,4,244,At-Risk Customers,Corporate,2009-11-05,2012-04-16,6
+61,Arthur Gainer,662,6,18765.065,1,3,3,133,At-Risk Customers,Consumer,2009-01-19,2011-03-10,6
+62,Arthur Prichep,77,10,24198.182,4,5,4,454,High-Value (Champions),Home Office,2009-01-21,2012-10-15,1
+63,Arthur Wiediger,117,3,13690.79,4,1,3,413,Need Attention,Corporate,2009-05-18,2012-09-05,5
+64,Ashley Jarboe,141,13,23835.046000000002,3,5,4,354,Loyal Customers,Home Office,2009-03-30,2012-08-12,2
+65,Astrea Jones,203,8,7290.117,3,4,2,342,Loyal Customers,Corporate,2009-05-21,2012-06-11,2
+66,Barbara Fisher,156,8,19473.143500000002,3,4,4,344,Loyal Customers,Small Business,2009-06-17,2012-07-28,2
+67,Barry Blumstein,330,6,16694.448,2,3,3,233,At-Risk Customers,Small Business,2009-09-25,2012-02-05,6
+68,Barry Franz,116,6,24113.15,4,3,4,434,Potential Loyalists,Corporate,2009-12-19,2012-09-06,3
+69,Barry French,91,3,15179.61,4,1,3,413,Need Attention,Consumer,2010-03-12,2012-10-01,5
+70,Barry Gonzalez,63,15,60682.967,4,5,5,455,High-Value (Champions),Consumer,2009-08-14,2012-10-29,1
+71,Barry Pond,192,5,4967.58,3,2,1,321,Potential Loyalists,Consumer,2010-05-11,2012-06-22,3
+72,Barry Weirich,24,8,40124.990000000005,5,4,5,545,High-Value (Champions),Corporate,2009-03-20,2012-12-07,1
+73,Bart Folk,44,4,3960.31,5,1,1,511,Need Attention,Corporate,2009-05-14,2012-11-17,5
+74,Bart Pistole,324,2,1220.1399999999999,2,1,1,211,Hibernating / Lost,Consumer,2009-10-04,2012-02-11,7
+75,Bart Watters,28,5,18834.215500000002,5,2,4,524,Potential Loyalists,Corporate,2010-08-09,2012-12-03,3
+76,Becky Castell,125,4,6868.3105,3,1,2,312,Need Attention,Consumer,2009-12-09,2012-08-28,5
+77,Becky Martin,125,3,23289.899,3,1,4,314,Need Attention,Home Office,2009-04-14,2012-08-28,5
+78,Becky Pak,78,8,50378.1595,4,4,5,445,High-Value (Champions),Corporate,2009-05-04,2012-10-14,1
+79,Ben Ferrer,246,5,2977.9880000000003,2,2,1,221,Hibernating / Lost,Corporate,2009-09-17,2012-04-29,7
+80,Ben Peterman,64,5,14044.8845,4,2,3,423,Potential Loyalists,Corporate,2009-07-31,2012-10-28,3
+81,Ben Wallace,387,7,29600.030000000002,1,3,5,135,At-Risk Customers,Home Office,2009-06-09,2011-12-10,6
+82,Benjamin Farhat,49,7,23000.75,5,3,4,534,Potential Loyalists,Home Office,2009-05-14,2012-11-12,3
+83,Benjamin Patterson,69,8,9358.584499999999,4,4,2,442,Loyal Customers,Corporate,2009-01-09,2012-10-23,2
+84,Benjamin Venier,232,9,42624.297,2,4,5,245,At-Risk Customers,Small Business,2009-01-07,2012-05-13,6
+85,Berenike Kampe,303,5,11540.967,2,2,2,222,Hibernating / Lost,Corporate,2009-05-27,2012-03-03,7
+86,Beth Fritzler,407,4,15287.673,1,1,3,113,Hibernating / Lost,Small Business,2009-03-14,2011-11-20,7
+87,Beth Paige,581,4,7105.945,1,1,2,112,Hibernating / Lost,Consumer,2009-10-17,2011-05-30,7
+88,Beth Thompson,69,12,27214.947,4,5,4,454,High-Value (Champions),Corporate,2009-03-19,2012-10-23,1
+89,Bill Donatelli,79,14,33880.274,4,5,5,455,High-Value (Champions),Corporate,2009-01-03,2012-10-13,1
+90,Bill Eplett,134,14,28075.790999999997,3,5,4,354,Loyal Customers,Corporate,2009-02-15,2012-08-19,2
+91,Bill Overfelt,220,7,24272.386,2,3,4,234,At-Risk Customers,Corporate,2009-02-02,2012-05-25,6
+92,Bill Shonely,95,7,16405.347999999998,4,3,3,433,Potential Loyalists,Small Business,2009-05-21,2012-09-27,3
+93,Bill Stewart,99,4,4652.33,4,1,1,411,Need Attention,Corporate,2009-11-02,2012-09-23,5
+94,Bill Tyler,944,3,25276.14,1,1,4,114,Hibernating / Lost,Consumer,2009-05-04,2010-06-01,7
+95,Bobby Elias,139,9,26977.4575,3,4,4,344,Loyal Customers,Small Business,2009-02-06,2012-08-14,2
+96,Bobby Odegard,46,8,9969.365,5,4,2,542,Loyal Customers,Corporate,2009-07-15,2012-11-15,2
+97,Bobby Trafton,22,11,31179.3485,5,5,5,555,High-Value (Champions),Small Business,2009-06-22,2012-12-09,1
+98,Brad Eason,84,7,7703.36,4,3,2,432,Potential Loyalists,Small Business,2009-04-11,2012-10-08,3
+99,Brad Norvell,242,4,8982.561,2,1,2,212,Hibernating / Lost,Corporate,2009-06-25,2012-05-03,7
+100,Brad Thomas,4,24,36909.514,5,5,5,555,High-Value (Champions),Home Office,2009-04-10,2012-12-27,1
+101,Bradley Drucker,3,10,27911.61,5,5,4,554,High-Value (Champions),Small Business,2009-01-11,2012-12-28,1
+102,Bradley Nguyen,602,5,6970.43,1,2,2,122,Hibernating / Lost,Consumer,2009-02-08,2011-05-09,7
+103,Bradley Talbott,53,4,2655.2400000000002,5,1,1,511,Need Attention,Small Business,2010-05-30,2012-11-08,5
+104,Brenda Bowman,292,8,18873.73,2,4,4,244,At-Risk Customers,Small Business,2010-02-08,2012-03-14,6
+105,Brendan Dodson,224,6,17576.670000000002,2,3,3,233,At-Risk Customers,Corporate,2009-07-27,2012-05-21,6
+106,Brendan Murry,62,8,29294.96,4,4,5,445,High-Value (Champions),Corporate,2009-03-18,2012-10-30,1
+107,Brendan Sweed,157,7,23187.8,3,3,4,334,Potential Loyalists,Consumer,2009-05-15,2012-07-27,3
+108,Brian Dahlen,267,4,8989.49,2,1,2,212,Hibernating / Lost,Small Business,2009-11-14,2012-04-08,7
+109,Brian DeCherney,144,6,3607.58,3,3,1,331,Potential Loyalists,Corporate,2011-04-09,2012-08-09,3
+110,Brian Derr,278,2,12976.4,2,1,3,213,Hibernating / Lost,Small Business,2011-10-12,2012-03-28,7
+111,Brian Moss,302,8,11195.684000000001,2,4,2,242,At-Risk Customers,Corporate,2009-02-23,2012-03-04,6
+112,Brian Stugart,119,10,25889.96,3,5,4,354,Loyal Customers,Consumer,2009-01-13,2012-09-03,2
+113,Brian Thompson,538,4,1653.25,1,1,1,111,Hibernating / Lost,Home Office,2009-12-05,2011-07-12,7
+114,Brooke Gillingham,146,6,35679.28,3,3,5,335,Potential Loyalists,Small Business,2009-12-22,2012-08-07,3
+115,Brosina Hoffman,452,3,24125.39,1,1,4,114,Hibernating / Lost,Consumer,2009-07-20,2011-10-06,7
+116,Bruce Degenhardt,552,5,21475.2185,1,2,4,124,Hibernating / Lost,Home Office,2009-05-25,2011-06-28,7
+117,Bruce Money,265,3,1167.03,2,1,1,211,Hibernating / Lost,Corporate,2010-06-04,2012-04-10,7
+118,Bruce Stewart,54,6,7739.62,5,3,2,532,Potential Loyalists,Corporate,2009-10-21,2012-11-07,3
+119,Bryan Davis,148,3,2354.7,3,1,1,311,Need Attention,Corporate,2011-10-10,2012-08-05,5
+120,Bryan Mills,509,6,20691.289,1,3,4,134,At-Risk Customers,Small Business,2009-07-13,2011-08-10,6
+121,Bryan Spruell,39,8,7428.239,5,4,2,542,Loyal Customers,Home Office,2010-05-10,2012-11-22,2
+122,Candace McMahon,258,8,3429.75,2,4,1,241,At-Risk Customers,Corporate,2009-12-14,2012-04-17,6
+123,Cari MacIntyre,27,9,35594.996,5,4,5,545,High-Value (Champions),Corporate,2009-07-20,2012-12-04,1
+124,Cari Sayre,215,11,50702.966499999995,2,5,5,255,At-Risk Customers,Corporate,2009-01-28,2012-05-30,6
+125,Cari Schnelling,253,6,7915.03,2,3,2,232,At-Risk Customers,Home Office,2010-03-16,2012-04-22,6
+126,Carl Jackson,40,4,14451.4165,5,1,3,513,Need Attention,Home Office,2010-01-25,2012-11-21,5
+127,Carl Ludwig,649,5,14143.66,1,2,3,123,Hibernating / Lost,Corporate,2010-01-14,2011-03-23,7
+128,Carl Weiss,521,9,27483.391,1,4,4,144,At-Risk Customers,Consumer,2009-03-04,2011-07-29,6
+129,Carlos Daly,60,10,33724.7355,4,5,5,455,High-Value (Champions),Corporate,2009-03-13,2012-11-01,1
+130,Carlos Meador,283,12,30735.367000000002,2,5,5,255,At-Risk Customers,Corporate,2009-05-13,2012-03-23,6
+131,Carlos Soltero,62,20,55575.087999999996,4,5,5,455,High-Value (Champions),Consumer,2009-01-17,2012-10-30,1
+132,Carol Adams,267,4,5536.83,2,1,1,211,Hibernating / Lost,Corporate,2009-03-13,2012-04-08,7
+133,Carol Darley,20,6,9930.751499999998,5,3,2,532,Potential Loyalists,Small Business,2009-02-03,2012-12-11,3
+134,Carol Triggs,92,9,7060.3395,4,4,2,442,Loyal Customers,Home Office,2009-03-14,2012-09-30,2
+135,Caroline Jumper,106,9,19831.0765,4,4,4,444,High-Value (Champions),Corporate,2010-01-29,2012-09-16,1
+136,Cassandra Brandow,79,4,2985.5600000000004,4,1,1,411,Need Attention,Home Office,2011-02-24,2012-10-13,5
+137,Catherine Glotzbach,61,7,4412.021,4,3,1,431,Potential Loyalists,Home Office,2010-01-12,2012-10-31,3
+138,Cathy Armstrong,135,7,23102.8425,3,3,4,334,Potential Loyalists,Consumer,2009-02-12,2012-08-18,3
+139,Cathy Hwang,1187,2,4312.0335000000005,1,1,1,111,Hibernating / Lost,Home Office,2009-02-26,2009-10-01,7
+140,Cathy Prescott,616,4,23227.850000000002,1,1,4,114,Hibernating / Lost,Corporate,2009-10-21,2011-04-25,7
+141,Chad Cunningham,436,4,1486.1,1,1,1,111,Hibernating / Lost,Small Business,2010-02-06,2011-10-22,7
+142,Chad McGuire,328,4,5121.92,2,1,1,211,Hibernating / Lost,Small Business,2010-01-16,2012-02-07,7
+143,Chad Sievert,64,6,29585.21,4,3,5,435,Potential Loyalists,Corporate,2009-10-05,2012-10-28,3
+144,Charles Crestani,317,10,40030.8255,2,5,5,255,At-Risk Customers,Consumer,2009-02-14,2012-02-18,6
+145,Charles McCrossin,188,5,25045.420000000002,3,2,4,324,Potential Loyalists,Corporate,2010-07-14,2012-06-26,3
+146,Charles Sheldon,717,3,16978.666,1,1,3,113,Hibernating / Lost,Corporate,2009-06-17,2011-01-14,7
+147,Charlotte Melton,466,5,7188.12,1,2,2,122,Hibernating / Lost,Home Office,2009-06-21,2011-09-22,7
+148,Chloris Kastensmidt,1234,2,16178.89,1,1,3,113,Hibernating / Lost,Consumer,2009-01-07,2009-08-15,7
+149,Chris Cortes,89,5,22077.733,4,2,4,424,Potential Loyalists,Consumer,2009-01-19,2012-10-03,3
+150,Chris McAfee,714,2,350.18,1,1,1,111,Hibernating / Lost,Consumer,2010-06-08,2011-01-17,7
+151,Chris Selesnick,234,5,9718.648,2,2,2,222,Hibernating / Lost,Home Office,2009-11-29,2012-05-11,7
+152,Christina Anderson,239,5,25136.309999999998,2,2,4,224,Hibernating / Lost,Corporate,2009-01-16,2012-05-06,7
+153,Christina DeMoss,280,5,17080.134,2,2,3,223,Hibernating / Lost,Home Office,2009-03-05,2012-03-26,7
+154,Christina Vanderzanden,148,11,22776.3185,3,5,4,354,Loyal Customers,Small Business,2009-02-05,2012-08-05,2
+155,Christine Abelman,68,9,45365.7505,4,4,5,445,High-Value (Champions),Corporate,2009-02-09,2012-10-24,1
+156,Christine Kargatis,481,2,293.21999999999997,1,1,1,111,Hibernating / Lost,Small Business,2009-04-07,2011-09-07,7
+157,Christine Phan,138,4,7719.0125,3,1,2,312,Need Attention,Small Business,2010-06-05,2012-08-15,5
+158,Christine Sundaresam,429,9,17420.85,1,4,3,143,At-Risk Customers,Small Business,2009-02-04,2011-10-29,6
+159,Christopher Conant,119,8,9465.976,3,4,2,342,Loyal Customers,Home Office,2009-03-21,2012-09-03,2
+160,Christopher Martinez,52,10,37289.066,5,5,5,555,High-Value (Champions),Small Business,2009-03-25,2012-11-09,1
+161,Christopher Schild,644,8,15970.5365,1,4,3,143,At-Risk Customers,Corporate,2009-03-27,2011-03-28,6
+162,Christy Brittain,18,15,29061.8675,5,5,5,555,High-Value (Champions),Consumer,2009-04-23,2012-12-13,1
+163,Chuck Clark,112,11,36028.4065,4,5,5,455,High-Value (Champions),Corporate,2009-08-31,2012-09-10,1
+164,Chuck Magee,104,4,4466.26,4,1,1,411,Need Attention,Corporate,2009-06-24,2012-09-18,5
+165,Chuck Sachs,389,8,25904.601,1,4,4,144,At-Risk Customers,Consumer,2009-03-15,2011-12-08,6
+166,Cindy Chapman,6,14,27261.8975,5,5,4,554,High-Value (Champions),Corporate,2009-01-28,2012-12-25,1
+167,Cindy Schnelling,234,8,30487.0805,2,4,5,245,At-Risk Customers,Corporate,2009-01-12,2012-05-11,6
+168,Cindy Stewart,123,8,12567.57,3,4,3,343,Loyal Customers,Corporate,2009-06-04,2012-08-30,2
+169,Claire Good,308,6,8867.943500000001,2,3,2,232,At-Risk Customers,Home Office,2009-05-13,2012-02-27,6
+170,Claudia Miner,149,6,4561.826,3,3,1,331,Potential Loyalists,Small Business,2009-05-29,2012-08-04,3
+171,Clay Cheatham,65,5,42255.168,4,2,5,425,Potential Loyalists,Small Business,2009-10-27,2012-10-27,3
+172,Clay Ludtke,76,4,4428.0695,4,1,1,411,New Customers,Consumer,2012-04-16,2012-10-16,4
+173,Clay Rozendal,540,4,6611.4365,1,1,2,112,Hibernating / Lost,Corporate,2009-01-30,2011-07-10,7
+174,Clytie Kelty,247,10,63189.95,2,5,5,255,At-Risk Customers,Small Business,2009-01-14,2012-04-28,6
+175,Corey Catlett,201,5,16032.235,3,2,3,323,Potential Loyalists,Home Office,2010-08-16,2012-06-13,3
+176,Corey Lock,242,7,24161.9505,2,3,4,234,At-Risk Customers,Home Office,2009-04-06,2012-05-03,6
+177,Corey Roper,303,3,4069.6359999999995,2,1,1,211,Hibernating / Lost,Small Business,2009-01-06,2012-03-03,7
+178,Corinna Mitchell,675,3,14938.99,1,1,3,113,Hibernating / Lost,Corporate,2009-06-21,2011-02-25,7
+179,Craig Carreira,224,1,41343.21,2,1,5,215,New Customers,Corporate,2012-05-21,2012-05-21,4
+180,Craig Carroll,270,7,11493.130000000001,2,3,2,232,At-Risk Customers,Corporate,2009-03-11,2012-04-05,6
+181,Craig Leslie,318,6,29497.484,2,3,5,235,At-Risk Customers,Consumer,2009-01-06,2012-02-17,6
+182,Craig Molinari,209,7,22570.3775,3,3,4,334,Potential Loyalists,Small Business,2009-10-29,2012-06-05,3
+183,Craig Rider,656,2,8502.271999999999,1,1,2,112,Hibernating / Lost,Small Business,2009-07-09,2011-03-16,7
+184,Craig Yedwab,233,7,16360.872000000001,2,3,3,233,At-Risk Customers,Consumer,2010-01-28,2012-05-12,6
+185,Cyma Kinney,319,3,2310.23,2,1,1,211,Hibernating / Lost,Small Business,2009-05-21,2012-02-16,7
+186,Cynthia Arntzen,35,16,31607.476,5,5,5,555,High-Value (Champions),Small Business,2009-01-20,2012-11-26,1
+187,Cynthia Delaney,185,9,30848.0415,3,4,5,345,Loyal Customers,Corporate,2009-01-24,2012-06-29,2
+188,Cynthia Voltz,158,5,6031.7880000000005,3,2,2,322,Potential Loyalists,Corporate,2009-01-09,2012-07-26,3
+189,Cyra Reiten,90,4,16834.37,4,1,3,413,Need Attention,Consumer,2010-08-08,2012-10-02,5
+190,Damala Kotsonis,70,7,22970.254,4,3,4,434,Potential Loyalists,Corporate,2009-10-15,2012-10-22,3
+191,Dan Campbell,88,10,28409.9345,4,5,4,454,High-Value (Champions),Small Business,2009-02-25,2012-10-04,1
+192,Dan Lawera,380,6,23104.170000000002,1,3,4,134,At-Risk Customers,Corporate,2009-09-28,2011-12-17,6
+193,Dan Reichenbach,462,4,3468.73,1,1,1,111,Hibernating / Lost,Corporate,2009-05-27,2011-09-26,7
+194,Dana Kaydos,109,5,20459.4895,4,2,4,424,Potential Loyalists,Corporate,2009-02-25,2012-09-13,3
+195,Daniel Byrd,794,5,7865.08,1,2,2,122,Hibernating / Lost,Home Office,2009-03-15,2010-10-29,7
+196,Daniel Lacy,158,6,5489.998,3,3,1,331,Potential Loyalists,Small Business,2009-08-21,2012-07-26,3
+197,Daniel Raglin,94,3,3321.86,4,1,1,411,Need Attention,Corporate,2009-03-16,2012-09-28,5
+198,Dario Medina,280,6,18937.42,2,3,4,234,At-Risk Customers,Small Business,2009-03-25,2012-03-26,6
+199,Darren Budd,47,26,81577.3435,5,5,5,555,High-Value (Champions),Consumer,2009-01-05,2012-11-14,1
+200,Darren Koutras,64,3,2437.0595000000003,4,1,1,411,Need Attention,Consumer,2011-05-19,2012-10-28,5
+201,Darren Powers,6,9,9287.363000000001,5,4,2,542,Loyal Customers,Corporate,2009-01-10,2012-12-25,2
+202,Darrin Martin,273,4,2074.56,2,1,1,211,Hibernating / Lost,Small Business,2009-07-12,2012-04-02,7
+203,Darrin Sayre,297,7,23338.48,2,3,4,234,At-Risk Customers,Consumer,2009-09-12,2012-03-09,6
+204,Darrin Van Huff,23,6,6043.025,5,3,2,532,Potential Loyalists,Home Office,2009-02-26,2012-12-08,3
+205,Dave Brooks,1024,4,15540.07,1,1,3,113,Hibernating / Lost,Corporate,2009-01-31,2010-03-13,7
+206,Dave Hallsten,29,11,23588.04,5,5,4,554,High-Value (Champions),Corporate,2009-01-04,2012-12-02,1
+207,Dave Kipp,67,8,25402.173,4,4,4,444,High-Value (Champions),Consumer,2009-03-27,2012-10-25,1
+208,Dave Poirier,165,10,29249.086,3,5,5,355,Loyal Customers,Small Business,2009-04-06,2012-07-19,2
+209,David Bremer,398,5,2209.332,1,2,1,121,Hibernating / Lost,Corporate,2009-02-17,2011-11-29,7
+210,David Flashing,119,6,9564.480000000001,3,3,2,332,Potential Loyalists,Home Office,2009-04-14,2012-09-03,3
+211,David Kendrick,268,8,14189.535999999998,2,4,3,243,At-Risk Customers,Home Office,2009-04-10,2012-04-07,6
+212,David Philippe,58,9,15976.534500000002,5,4,3,543,Loyal Customers,Consumer,2009-01-02,2012-11-03,2
+213,David Smith,309,4,3192.8705,2,1,1,211,Hibernating / Lost,Small Business,2009-02-12,2012-02-26,7
+214,David Wiener,711,4,3028.23,1,1,1,111,Hibernating / Lost,Consumer,2010-02-25,2011-01-20,7
+215,Dean Braden,659,2,5284.823,1,1,1,111,Hibernating / Lost,Corporate,2009-03-22,2011-03-13,7
+216,Dean Katz,358,5,11861.511999999999,2,2,3,223,Hibernating / Lost,Home Office,2009-02-04,2012-01-08,7
+217,Dean Percer,190,7,34987.771499999995,3,3,5,335,Potential Loyalists,Home Office,2009-10-20,2012-06-24,3
+218,Deanra Eno,41,13,23201.28,5,5,4,554,High-Value (Champions),Corporate,2009-08-05,2012-11-20,1
+219,Deborah Brumfield,363,12,97433.1355,2,5,5,255,At-Risk Customers,Small Business,2009-04-27,2012-01-03,6
+220,Debra Catini,71,8,8421.92,4,4,2,442,Loyal Customers,Small Business,2009-01-24,2012-10-21,2
+221,Deirdre Greer,318,2,11346.6535,2,1,2,212,Hibernating / Lost,Home Office,2010-05-25,2012-02-17,7
+222,Delfina Latchford,664,5,3541.758,1,2,1,121,Hibernating / Lost,Small Business,2009-03-04,2011-03-08,7
+223,Denise Leinenbach,182,6,15413.95,3,3,3,333,Potential Loyalists,Home Office,2009-05-25,2012-07-02,3
+224,Denise Monton,218,15,22513.17,2,5,4,254,At-Risk Customers,Home Office,2009-03-01,2012-05-27,6
+225,Dennis Bolton,101,12,17099.94,4,5,3,453,Loyal Customers,Small Business,2009-03-07,2012-09-21,2
+226,Dennis Kane,30,13,75967.5905,5,5,5,555,High-Value (Champions),Small Business,2009-03-12,2012-12-01,1
+227,Dennis Pardue,79,11,21372.9775,4,5,4,454,High-Value (Champions),Corporate,2010-01-02,2012-10-13,1
+228,Denny Blanton,503,4,12969.188,1,1,3,113,Hibernating / Lost,Home Office,2009-03-13,2011-08-16,7
+229,Denny Joy,268,5,23310.87,2,2,4,224,Hibernating / Lost,Corporate,2009-12-16,2012-04-07,7
+230,Denny Ordway,62,7,12916.309000000001,4,3,3,433,Potential Loyalists,Small Business,2009-04-17,2012-10-30,3
+231,Dianna Arnett,280,5,14132.789499999999,2,2,3,223,Hibernating / Lost,Home Office,2009-06-14,2012-03-26,7
+232,Dianna Vittorini,141,8,15314.5385,3,4,3,343,Loyal Customers,Corporate,2009-05-25,2012-08-12,2
+233,Dianna Wilson,478,3,9611.36,1,1,2,112,Hibernating / Lost,Small Business,2010-01-14,2011-09-10,7
+234,Dionis Lloyd,144,7,11855.3475,3,3,3,333,Potential Loyalists,Small Business,2009-03-24,2012-08-09,3
+235,Don Jones,35,6,8399.321,5,3,2,532,Potential Loyalists,Corporate,2009-07-22,2012-11-26,3
+236,Don Miller,149,7,11676.57,3,3,2,332,Potential Loyalists,Home Office,2009-09-16,2012-08-04,3
+237,Don Weiss,250,4,4208.048,2,2,1,221,Hibernating / Lost,Corporate,2009-03-27,2012-04-25,7
+238,Dorothy Badders,455,5,17521.09,1,2,3,123,Hibernating / Lost,Home Office,2009-03-09,2011-10-03,7
+239,Dorothy Dickinson,969,1,198.08,1,1,1,111,Hibernating / Lost,Corporate,2010-05-07,2010-05-07,7
+240,Dorothy Wardle,10,9,28598.5625,5,4,4,544,High-Value (Champions),Corporate,2009-03-31,2012-12-21,1
+241,Dorris Love,56,10,15867.25,5,5,3,553,Loyal Customers,Home Office,2009-01-05,2012-11-05,2
+242,Doug Bickford,46,14,41159.648,5,5,5,555,High-Value (Champions),Corporate,2009-10-01,2012-11-15,1
+243,Doug Jacobs,113,4,12966.237000000001,4,2,3,423,Potential Loyalists,Home Office,2010-03-03,2012-09-09,3
+244,Doug O'Connell,149,3,721.65,3,1,1,311,Need Attention,Small Business,2009-11-05,2012-08-04,5
+245,Duane Benoit,42,8,20368.3545,5,4,4,544,High-Value (Champions),Home Office,2009-04-10,2012-11-19,1
+246,Duane Huffman,73,13,19668.1735,4,5,4,454,High-Value (Champions),Consumer,2009-05-20,2012-10-19,1
+247,Duane Noonan,26,5,30369.79,5,2,5,525,Potential Loyalists,Corporate,2009-10-02,2012-12-05,3
+248,Ed Braxton,24,22,75802.76,5,5,5,555,High-Value (Champions),Home Office,2009-02-07,2012-12-07,1
+249,Ed Jacobs,483,5,13887.6725,1,2,3,123,Hibernating / Lost,Small Business,2009-09-15,2011-09-05,7
+250,Ed Ludwig,172,7,18368.42,3,3,3,333,Potential Loyalists,Consumer,2009-08-24,2012-07-12,3
+251,Edward Becker,451,13,18149.559999999998,1,5,3,153,At-Risk Customers,Corporate,2009-02-10,2011-10-07,6
+252,Edward Hooks,100,5,34532.76,4,2,5,425,Potential Loyalists,Consumer,2009-07-02,2012-09-22,3
+253,Edward Nazzal,43,16,54511.8035,5,5,5,555,High-Value (Champions),Home Office,2009-07-04,2012-11-18,1
+254,Eileen Kiefer,455,5,9751.536,1,2,2,122,Hibernating / Lost,Consumer,2009-03-28,2011-10-03,7
+255,Eleni McCrary,124,7,30519.14,3,3,5,335,Potential Loyalists,Corporate,2009-12-09,2012-08-29,3
+256,Elizabeth Moffitt,613,6,6207.6449999999995,1,3,2,132,At-Risk Customers,Consumer,2009-01-02,2011-04-28,6
+257,Ellis Ballard,390,6,25202.156499999997,1,3,4,134,At-Risk Customers,Corporate,2009-04-10,2011-12-07,6
+258,Elpida Rittenbach,511,5,9677.297999999999,1,2,2,122,Hibernating / Lost,Consumer,2009-06-02,2011-08-08,7
+259,Emily Burns,253,3,573.98,2,1,1,211,Hibernating / Lost,Home Office,2010-05-05,2012-04-22,7
+260,Emily Ducich,1095,2,26209.65,1,1,4,114,Hibernating / Lost,Consumer,2009-04-09,2010-01-01,7
+261,Emily Grady,33,12,28774.013499999997,5,5,5,555,High-Value (Champions),Home Office,2009-05-23,2012-11-28,1
+262,Emily Phan,35,8,117124.43800000001,5,4,5,545,High-Value (Champions),Consumer,2009-03-21,2012-11-26,1
+263,Eric Barreto,218,17,24769.844,2,5,4,254,At-Risk Customers,Consumer,2009-03-18,2012-05-27,6
+264,Eric Hoffmann,152,4,7300.165999999999,3,2,2,322,Potential Loyalists,Small Business,2009-09-15,2012-08-01,3
+265,Eric Murdock,94,4,343.328,4,2,1,421,Potential Loyalists,Home Office,2010-04-07,2012-09-28,3
+266,Erica Bern,146,12,60960.5295,3,5,5,355,Loyal Customers,Corporate,2009-01-18,2012-08-07,2
+267,Erica Hackney,390,3,8608.35,1,1,2,112,Hibernating / Lost,Small Business,2010-01-15,2011-12-07,7
+268,Erica Hernandez,62,6,11552.286,4,3,2,432,Potential Loyalists,Small Business,2009-04-28,2012-10-30,3
+269,Erica Smith,339,6,35703.914000000004,2,3,5,235,At-Risk Customers,Small Business,2009-02-16,2012-01-27,6
+270,Erin Ashbrook,74,7,7588.141,4,3,2,432,Potential Loyalists,Consumer,2009-10-09,2012-10-18,3
+271,Erin Creighton,114,9,35725.0895,4,4,5,445,High-Value (Champions),Corporate,2009-07-31,2012-09-08,1
+272,Erin Mull,258,8,32279.0255,2,4,5,245,At-Risk Customers,Small Business,2009-09-16,2012-04-17,6
+273,Erin Smith,217,4,7189.49,2,2,2,222,Hibernating / Lost,Home Office,2010-05-14,2012-05-28,7
+274,Eudokia Martin,221,4,7913.36,2,2,2,222,Hibernating / Lost,Home Office,2009-04-05,2012-05-24,7
+275,Eugene Barchas,233,7,22686.213,2,3,4,234,At-Risk Customers,Corporate,2009-01-30,2012-05-12,6
+276,Eugene Hildebrand,232,6,21144.72,2,3,4,234,At-Risk Customers,Home Office,2009-04-23,2012-05-13,6
+277,Eugene Moren,281,10,20006.713,2,5,4,254,At-Risk Customers,Home Office,2009-04-20,2012-03-25,6
+278,Eva Jacobs,136,9,24445.0125,3,4,4,344,Loyal Customers,Home Office,2009-06-11,2012-08-17,2
+279,Evan Bailliet,354,6,3193.9424999999997,2,3,1,231,At-Risk Customers,Corporate,2009-02-10,2012-01-12,6
+280,Evan Henry,6,8,7909.815500000001,5,4,2,542,Loyal Customers,Corporate,2009-04-09,2012-12-25,2
+281,Evan Minnotte,740,6,18286.06,1,3,3,133,At-Risk Customers,Corporate,2009-03-01,2010-12-22,6
+282,Filia McAdams,43,6,29768.4295,5,3,5,535,Potential Loyalists,Small Business,2009-01-24,2012-11-18,3
+283,Frank Atkinson,65,5,16155.5745,4,2,3,423,Potential Loyalists,Corporate,2010-06-30,2012-10-27,3
+284,Frank Carlisle,175,3,2810.08,3,1,1,311,Need Attention,Small Business,2010-03-15,2012-07-09,5
+285,Frank Gastineau,287,4,14006.923999999999,2,2,3,223,Hibernating / Lost,Small Business,2010-12-06,2012-03-19,7
+286,Frank Hawley,248,7,34301.5175,2,3,5,235,At-Risk Customers,Home Office,2009-02-12,2012-04-27,6
+287,Frank Merwin,282,12,35110.0595,2,5,5,255,At-Risk Customers,Consumer,2009-02-17,2012-03-24,6
+288,Frank Olsen,163,3,1948.8899999999999,3,1,1,311,Need Attention,Small Business,2009-06-30,2012-07-21,5
+289,Frank Price,260,4,8811.6155,2,2,2,222,Hibernating / Lost,Corporate,2010-04-29,2012-04-15,7
+290,Fred Chung,188,5,4054.161,3,2,1,321,Potential Loyalists,Corporate,2010-05-05,2012-06-26,3
+291,Fred Harton,85,9,20464.268,4,4,4,444,High-Value (Champions),Home Office,2009-03-30,2012-10-07,1
+292,Fred Hopkins,743,2,968.8689999999999,1,1,1,111,Hibernating / Lost,Home Office,2010-10-04,2010-12-19,7
+293,Fred McMath,116,9,25607.338,4,4,4,444,High-Value (Champions),Small Business,2010-05-12,2012-09-06,1
+294,Fred Wasserman,476,7,7487.9580000000005,1,3,2,132,At-Risk Customers,Home Office,2009-04-27,2011-09-12,6
+295,Gary Hansen,361,3,2441.45,2,1,1,211,Hibernating / Lost,Consumer,2010-08-04,2012-01-05,7
+296,Gary Hwang,60,11,21771.254,4,5,4,454,High-Value (Champions),Home Office,2009-10-30,2012-11-01,1
+297,Gary McGarr,408,7,14519.933500000001,1,3,3,133,At-Risk Customers,Home Office,2009-07-27,2011-11-19,6
+298,Gary Mitchum,207,3,848.0699999999999,3,1,1,311,Need Attention,Consumer,2009-08-11,2012-06-07,5
+299,Gary Zandusky,66,7,18544.038,4,3,3,433,Potential Loyalists,Home Office,2009-06-03,2012-10-26,3
+300,Gene Hale,464,6,6647.6075,1,3,2,132,At-Risk Customers,Consumer,2009-01-26,2011-09-24,6
+301,Gene McClure,408,6,7686.2,1,3,2,132,At-Risk Customers,Consumer,2009-02-04,2011-11-19,6
+302,George Ashbrook,203,10,11322.7605,3,5,2,352,Loyal Customers,Consumer,2009-01-07,2012-06-11,2
+303,George Bell,28,5,2952.9385,5,2,1,521,Potential Loyalists,Corporate,2010-03-21,2012-12-03,3
+304,George Zrebassa,100,6,16325.09,4,3,3,433,Potential Loyalists,Home Office,2009-06-07,2012-09-22,3
+305,Georgia Rosenberg,327,8,15647.49,2,4,3,243,At-Risk Customers,Consumer,2009-05-01,2012-02-08,6
+306,Giulietta Baptist,67,5,6292.67,4,2,2,422,Potential Loyalists,Home Office,2010-08-20,2012-10-25,3
+307,Giulietta Dortch,86,19,58679.845,4,5,5,455,High-Value (Champions),Consumer,2009-01-10,2012-10-06,1
+308,Giulietta Weimer,6,8,15839.2955,5,4,3,543,Loyal Customers,Corporate,2009-01-15,2012-12-25,2
+309,Grace Kelly,388,4,3714.3465,1,2,1,121,Hibernating / Lost,Consumer,2009-06-03,2011-12-09,7
+310,Grant Carroll,50,17,88417.0025,5,5,5,555,High-Value (Champions),Corporate,2009-03-29,2012-11-11,1
+311,Grant Donatelli,110,4,15285.53,4,2,3,423,Potential Loyalists,Consumer,2009-02-08,2012-09-12,3
+312,Grant Thornton,29,12,15596.550500000001,5,5,3,553,Loyal Customers,Corporate,2009-04-07,2012-12-02,2
+313,Greg Guthrie,646,12,33090.42,1,5,5,155,At-Risk Customers,Corporate,2009-05-06,2011-03-26,6
+314,Greg Hansen,282,5,14132.98,2,2,3,223,Hibernating / Lost,Home Office,2010-09-17,2012-03-24,7
+315,Greg Matthias,694,7,13256.245499999999,1,3,3,133,At-Risk Customers,Home Office,2009-01-12,2011-02-06,6
+316,Greg Maxwell,240,3,16229.688,2,1,3,213,Hibernating / Lost,Home Office,2009-08-05,2012-05-05,7
+317,Greg Tran,112,5,30119.412999999997,4,2,5,425,Potential Loyalists,Home Office,2010-12-11,2012-09-10,3
+318,Guy Armstrong,32,10,18803.822,5,5,3,553,Loyal Customers,Corporate,2009-03-05,2012-11-29,2
+319,Guy Phonely,173,7,10399.8755,3,3,2,332,Potential Loyalists,Corporate,2009-01-22,2012-07-11,3
+320,Guy Thornton,182,7,18690.3785,3,3,3,333,Potential Loyalists,Corporate,2009-01-12,2012-07-02,3
+321,Hallie Redmond,117,8,11546.658,4,4,2,442,Loyal Customers,Small Business,2010-04-03,2012-09-05,2
+322,Harold Dahlen,233,15,46556.162,2,5,5,255,At-Risk Customers,Corporate,2009-04-05,2012-05-12,6
+323,Harold Engle,219,12,52882.2825,2,5,5,255,At-Risk Customers,Home Office,2009-12-02,2012-05-26,6
+324,Harold Pawlan,13,7,24331.446,5,3,4,534,Potential Loyalists,Small Business,2009-06-11,2012-12-18,3
+325,Harold Ryan,63,9,35884.06,4,4,5,445,High-Value (Champions),Home Office,2009-01-21,2012-10-29,1
+326,Harry Greene,175,3,11194.87,3,1,2,312,Need Attention,Corporate,2010-11-07,2012-07-09,5
+327,Harry Marie,158,5,15678.463,3,2,3,323,Potential Loyalists,Consumer,2010-06-19,2012-07-26,3
+328,Heather Jas,526,3,714.24,1,1,1,111,Hibernating / Lost,Corporate,2009-03-27,2011-07-24,7
+329,Heather Kirkland,291,4,17307.548,2,2,3,223,Hibernating / Lost,Home Office,2009-03-11,2012-03-15,7
+330,Helen Abelman,462,5,15996.559500000001,1,2,3,123,Hibernating / Lost,Home Office,2010-05-03,2011-09-26,7
+331,Helen Andreada,62,10,18378.804,4,5,3,453,Loyal Customers,Corporate,2009-12-16,2012-10-30,2
+332,Helen Wasserman,188,14,44416.364,3,5,5,355,Loyal Customers,Home Office,2009-02-08,2012-06-26,2
+333,Henia Zydlo,61,4,12998.33,4,2,3,423,Potential Loyalists,Home Office,2009-02-04,2012-10-31,3
+334,Henry Goldwyn,168,6,26629.809500000003,3,3,4,334,Potential Loyalists,Small Business,2009-11-07,2012-07-16,3
+335,Henry MacAllister,290,3,1348.4615,2,1,1,211,Hibernating / Lost,Small Business,2009-06-13,2012-03-16,7
+336,Herbert Flentye,755,3,4189.175,1,1,1,111,Hibernating / Lost,Small Business,2010-02-27,2010-12-07,7
+337,Hilary Holden,112,6,33997.323000000004,4,3,5,435,Potential Loyalists,Corporate,2009-12-22,2012-09-10,3
+338,Hunter Glantz,283,2,6445.83,2,1,2,212,New Customers,Corporate,2012-02-23,2012-03-23,4
+339,Hunter Lopez,51,4,16454.35,5,2,3,523,Potential Loyalists,Consumer,2009-12-14,2012-11-10,3
+340,Ionia McGrath,33,13,42314.5975,5,5,5,555,High-Value (Champions),Home Office,2009-02-10,2012-11-28,1
+341,Irene Maddox,284,5,19836.305,2,2,4,224,Hibernating / Lost,Consumer,2009-07-17,2012-03-22,7
+342,Ivan Gibson,75,3,706.88,4,1,1,411,Need Attention,Corporate,2009-08-06,2012-10-17,5
+343,Ivan Liston,62,8,38880.47,4,4,5,445,High-Value (Champions),Consumer,2010-11-06,2012-10-30,1
+344,Jack Garza,87,6,13571.348999999998,4,3,3,433,Potential Loyalists,Corporate,2009-09-26,2012-10-05,3
+345,Jack Lebron,28,14,51155.799,5,5,5,555,High-Value (Champions),Corporate,2009-12-23,2012-12-03,1
+346,Jack O'Briant,68,21,56974.693999999996,4,5,5,455,High-Value (Champions),Small Business,2009-03-22,2012-10-24,1
+347,James Galang,268,8,17932.791,2,4,3,243,At-Risk Customers,Consumer,2009-04-15,2012-04-07,6
+348,James Lanier,381,8,29846.969999999998,1,4,5,145,At-Risk Customers,Corporate,2009-02-27,2011-12-16,6
+349,Jamie Frazer,382,4,3980.79,1,2,1,121,Hibernating / Lost,Small Business,2009-11-12,2011-12-15,7
+350,Jamie Kunitz,52,6,27842.059999999998,5,3,4,534,Potential Loyalists,Corporate,2010-06-24,2012-11-09,3
+351,Jane Waco,195,4,4598.5475,3,2,1,321,Potential Loyalists,Corporate,2010-10-06,2012-06-19,3
+352,Janet Lee,200,7,21422.0875,3,3,4,334,Potential Loyalists,Consumer,2009-02-14,2012-06-14,3
+353,Janet Martin,65,9,34383.84,4,4,5,445,High-Value (Champions),Corporate,2009-04-29,2012-10-27,1
+354,Janet Molinari,276,3,1348.64,2,1,1,211,Hibernating / Lost,Corporate,2011-05-07,2012-03-30,7
+355,Jas O'Carroll,409,10,18982.2285,1,5,4,154,At-Risk Customers,Corporate,2009-08-17,2011-11-18,6
+356,Jason Fortune,605,4,22455.015499999998,1,2,4,124,Hibernating / Lost,Corporate,2009-11-11,2011-05-06,7
+357,Jason Gross,597,2,1484.04,1,1,1,111,Hibernating / Lost,Small Business,2010-12-12,2011-05-14,7
+358,Jason Klamczynski,58,7,23074.469,5,3,4,534,Potential Loyalists,Small Business,2009-01-16,2012-11-03,3
+359,Jasper Cacioppo,168,7,61350.090000000004,3,3,5,335,Potential Loyalists,Home Office,2009-01-07,2012-07-16,3
+360,Jay Fine,76,6,28113.7805,4,3,4,434,Potential Loyalists,Consumer,2009-04-08,2012-10-16,3
+361,Jay Kimmel,252,3,16429.3,2,1,3,213,Hibernating / Lost,Small Business,2011-05-11,2012-04-23,7
+362,Jenna Caffey,157,8,10648.5085,3,4,2,342,Loyal Customers,Consumer,2009-04-06,2012-07-27,2
+363,Jennifer Braxton,185,6,13013.1375,3,3,3,333,Potential Loyalists,Small Business,2009-11-24,2012-06-29,3
+364,Jennifer Ferguson,28,8,20998.6675,5,4,4,544,High-Value (Champions),Home Office,2009-03-27,2012-12-03,1
+365,Jennifer Halladay,16,5,17299.48,5,2,3,523,Potential Loyalists,Home Office,2010-03-08,2012-12-15,3
+366,Jennifer Jackson,2,7,11314.66,5,3,2,532,Potential Loyalists,Home Office,2009-01-15,2012-12-29,3
+367,Jennifer Patt,121,10,42356.003,3,5,5,355,Loyal Customers,Home Office,2009-01-14,2012-09-01,2
+368,Jeremy Ellison,63,3,5524.13,4,1,1,411,Need Attention,Small Business,2009-12-14,2012-10-29,5
+369,Jeremy Farry,250,2,85.72,2,1,1,211,Hibernating / Lost,Small Business,2009-09-15,2012-04-25,7
+370,Jeremy Lonsdale,509,7,19810.6355,1,3,4,134,At-Risk Customers,Corporate,2009-02-24,2011-08-10,6
+371,Jeremy Pistek,16,8,6987.7705,5,4,2,542,Loyal Customers,Corporate,2009-07-24,2012-12-15,2
+372,Jessica Myrick,247,6,10295.92,2,3,2,232,At-Risk Customers,Small Business,2009-01-01,2012-04-28,6
+373,Jesus Ocampo,682,4,9561.57,1,2,2,122,Hibernating / Lost,Small Business,2009-06-18,2011-02-18,7
+374,Jill Fjeld,61,4,5215.4400000000005,4,2,1,421,Potential Loyalists,Home Office,2010-07-17,2012-10-31,3
+375,Jill Matthias,70,7,13624.053,4,3,3,433,Potential Loyalists,Consumer,2009-02-26,2012-10-22,3
+376,Jill Stevenson,34,5,27256.4905,5,2,4,524,Potential Loyalists,Consumer,2010-10-08,2012-11-27,3
+377,Jim Epp,1,12,32331.5135,5,5,5,555,High-Value (Champions),Small Business,2009-04-24,2012-12-30,1
+378,Jim Karlsson,66,7,20482.911,4,3,4,434,Potential Loyalists,Small Business,2011-04-08,2012-10-26,3
+379,Jim Kriz,251,9,19534.159499999998,2,4,4,244,At-Risk Customers,Consumer,2009-05-03,2012-04-24,6
+380,Jim Mitchum,21,5,7852.3585,5,2,2,522,Potential Loyalists,Consumer,2009-08-14,2012-12-10,3
+381,Jim Radford,260,7,35978.139,2,3,5,235,At-Risk Customers,Corporate,2009-03-03,2012-04-15,6
+382,Jim Sink,225,9,33491.987,2,4,5,245,At-Risk Customers,Corporate,2009-07-24,2012-05-20,6
+383,Jocasta Rupert,241,3,24107.399999999998,2,1,4,214,Hibernating / Lost,Consumer,2009-01-23,2012-05-04,7
+384,Joe Elijah,518,6,4138.4285,1,3,1,131,At-Risk Customers,Home Office,2009-01-16,2011-08-01,6
+385,Joe Kamberova,513,2,5761.31,1,1,1,111,Hibernating / Lost,Small Business,2009-03-25,2011-08-06,7
+386,Joel Eaton,45,6,8024.3595,5,3,2,532,Potential Loyalists,Home Office,2009-01-17,2012-11-16,3
+387,Joel Jenkins,608,3,865.2600000000001,1,1,1,111,Hibernating / Lost,Corporate,2010-04-22,2011-05-03,7
+388,John Castell,143,11,34824.3215,3,5,5,355,Loyal Customers,Consumer,2009-07-17,2012-08-10,2
+389,John Dryer,821,8,11427.09,1,4,2,142,At-Risk Customers,Corporate,2009-03-16,2010-10-02,6
+390,John Grady,328,3,1764.71,2,1,1,211,Hibernating / Lost,Corporate,2010-01-27,2012-02-07,7
+391,John Huston,234,2,4039.1000000000004,2,1,1,211,Hibernating / Lost,Consumer,2009-03-08,2012-05-11,7
+392,John Lee,272,10,22803.96,2,5,4,254,At-Risk Customers,Corporate,2009-01-17,2012-04-03,6
+393,John Lucas,29,14,79696.1875,5,5,5,555,High-Value (Champions),Small Business,2009-05-07,2012-12-02,1
+394,John Murray,73,7,37036.0265,4,3,5,435,Potential Loyalists,Small Business,2009-10-07,2012-10-19,3
+395,John Stevenson,304,4,48660.873,2,2,5,225,Hibernating / Lost,Small Business,2009-10-04,2012-03-02,7
+396,Jonathan Doherty,20,14,37345.1535,5,5,5,555,High-Value (Champions),Corporate,2009-03-28,2012-12-11,1
+397,Jonathan Howell,335,5,2835.7165,2,2,1,221,Hibernating / Lost,Consumer,2009-08-12,2012-01-31,7
+398,Joni Blumstein,13,14,22179.0535,5,5,4,554,High-Value (Champions),Home Office,2009-01-09,2012-12-18,1
+399,Joni Sundaresam,103,3,650.77,4,1,1,411,Need Attention,Home Office,2010-02-09,2012-09-19,5
+400,Joni Wasserman,28,8,6869.836,5,4,2,542,Loyal Customers,Consumer,2009-08-27,2012-12-03,2
+401,Joseph Airdo,248,12,15920.8105,2,5,3,253,At-Risk Customers,Consumer,2009-07-22,2012-04-27,6
+402,Joseph Holt,491,3,9426.5,1,1,2,112,Hibernating / Lost,Home Office,2009-09-26,2011-08-28,7
+403,Joy Bell,85,6,22948.7625,4,3,4,434,Potential Loyalists,Home Office,2009-03-06,2012-10-07,3
+404,Joy Daniels,7,3,4697.7235,5,1,1,511,Need Attention,Corporate,2010-07-16,2012-12-24,5
+405,Joy Smith,177,16,40768.833,3,5,5,355,Loyal Customers,Consumer,2009-02-01,2012-07-07,2
+406,Julia Barnett,19,12,80044.45199999999,5,5,5,555,High-Value (Champions),Home Office,2009-01-06,2012-12-12,1
+407,Julia Dunbar,203,9,20868.0975,3,4,4,344,Loyal Customers,Consumer,2009-07-21,2012-06-11,2
+408,Julia West,203,9,44021.42,3,4,5,345,Loyal Customers,Consumer,2009-01-06,2012-06-11,2
+409,Juliana Krohn,69,8,46672.009,4,4,5,445,High-Value (Champions),Corporate,2009-12-17,2012-10-23,1
+410,Julie Creighton,87,5,4143.558,4,2,1,421,Potential Loyalists,Corporate,2010-03-19,2012-10-05,3
+411,Julie Kriz,276,6,35294.48,2,3,5,235,At-Risk Customers,Corporate,2009-01-07,2012-03-30,6
+412,Julie Prescott,304,6,20917.489999999998,2,3,4,234,At-Risk Customers,Home Office,2009-03-17,2012-03-02,6
+413,Justin Deggeller,437,3,3600.1440000000002,1,1,1,111,Hibernating / Lost,Corporate,2010-06-06,2011-10-21,7
+414,Justin Ellison,247,6,25264.149999999998,2,3,4,234,At-Risk Customers,Home Office,2009-05-23,2012-04-28,6
+415,Justin Hirsh,163,11,12303.6725,3,5,3,353,Loyal Customers,Consumer,2009-08-05,2012-07-21,2
+416,Justin Knight,383,8,18807.251,1,4,3,143,At-Risk Customers,Corporate,2009-02-19,2011-12-14,6
+417,Justin MacKendrick,151,4,37675.81,3,2,5,325,Potential Loyalists,Corporate,2010-01-10,2012-08-02,3
+418,Kalyca Meade,409,4,1661.21,1,2,1,121,Hibernating / Lost,Corporate,2010-11-26,2011-11-18,7
+419,Karen Bern,494,3,1563.7075,1,1,1,111,Hibernating / Lost,Corporate,2009-03-09,2011-08-25,7
+420,Karen Carlisle,205,11,59313.323,3,5,5,355,Loyal Customers,Corporate,2009-09-30,2012-06-09,2
+421,Karen Daniels,412,4,13235.8,1,2,3,123,Hibernating / Lost,Consumer,2010-01-29,2011-11-15,7
+422,Karen Ferguson,75,5,13649.0635,4,2,3,423,Potential Loyalists,Home Office,2009-05-19,2012-10-17,3
+423,Karen Seio,142,6,24491.428,3,3,4,334,Potential Loyalists,Consumer,2009-04-01,2012-08-11,3
+424,Karl Brown,132,14,44992.831,3,5,5,355,Loyal Customers,Corporate,2009-06-15,2012-08-21,2
+425,Katharine Harms,312,3,20914.09,2,1,4,214,Hibernating / Lost,Consumer,2009-05-03,2012-02-23,7
+426,Katherine Ducich,125,4,4159.3485,3,2,1,321,Potential Loyalists,Corporate,2009-01-17,2012-08-28,3
+427,Katherine Hughes,66,6,13096.347000000002,4,3,3,433,Potential Loyalists,Consumer,2009-01-29,2012-10-26,3
+428,Katherine Murray,212,4,19712.9755,3,2,4,324,Potential Loyalists,Home Office,2009-09-01,2012-06-02,3
+429,Katherine Nockton,185,11,25005.516,3,5,4,354,Loyal Customers,Corporate,2009-10-05,2012-06-29,2
+430,Katrina Bavinger,33,5,22584.1505,5,2,4,524,Potential Loyalists,Consumer,2009-02-24,2012-11-28,3
+431,Katrina Edelman,574,2,180.76000000000002,1,1,1,111,Hibernating / Lost,Corporate,2011-03-02,2011-06-06,7
+432,Katrina Willman,207,7,25168.8965,3,3,4,334,Potential Loyalists,Consumer,2010-01-29,2012-06-07,3
+433,Kean Nguyen,159,7,9277.925,3,3,2,332,Potential Loyalists,Corporate,2009-11-17,2012-07-25,3
+434,Kean Takahito,998,2,7570.142000000001,1,1,2,112,Hibernating / Lost,Home Office,2009-07-01,2010-04-08,7
+435,Kean Thornton,12,6,6832.89,5,3,2,532,Potential Loyalists,Corporate,2010-07-26,2012-12-19,3
+436,Keith Dawkins,304,13,16010.503499999999,2,5,3,253,At-Risk Customers,Home Office,2009-02-27,2012-03-02,6
+437,Keith Herrera,356,4,11261.075499999999,2,2,2,222,Hibernating / Lost,Small Business,2010-06-21,2012-01-10,7
+438,Kelly Andreada,77,8,17624.8235,4,4,3,443,Loyal Customers,Home Office,2009-02-06,2012-10-15,2
+439,Kelly Collister,523,3,471.81000000000006,1,1,1,111,Hibernating / Lost,Consumer,2010-03-09,2011-07-27,7
+440,Kelly Lampkin,286,7,10990.5905,2,3,2,232,At-Risk Customers,Home Office,2009-04-08,2012-03-20,6
+441,Kelly Williams,41,9,16900.5895,5,4,3,543,Loyal Customers,Corporate,2009-03-22,2012-11-20,2
+442,Ken Black,92,4,2521.81,4,2,1,421,Potential Loyalists,Consumer,2010-01-26,2012-09-30,3
+443,Ken Brennan,172,7,23058.260000000002,3,3,4,334,Potential Loyalists,Consumer,2009-01-26,2012-07-12,3
+444,Ken Dana,93,8,25530.4675,4,4,4,444,High-Value (Champions),Corporate,2009-07-06,2012-09-29,1
+445,Ken Heidel,15,7,24303.194,5,3,4,534,Potential Loyalists,Corporate,2011-02-16,2012-12-16,3
+446,Ken Lonsdale,60,10,17304.6755,5,5,3,553,Loyal Customers,Consumer,2009-10-07,2012-11-01,2
+447,Khloe Miller,76,12,22488.41,4,5,4,454,High-Value (Champions),Home Office,2009-01-22,2012-10-16,1
+448,Kimberly Carter,418,8,14097.117,1,4,3,143,At-Risk Customers,Home Office,2009-03-18,2011-11-09,6
+449,Kristen Hastings,358,4,15895.720000000001,2,2,3,223,Hibernating / Lost,Corporate,2009-01-18,2012-01-08,7
+450,Kristina Nunn,156,7,14244.1795,3,3,3,333,Potential Loyalists,Consumer,2009-01-10,2012-07-28,3
+451,Larry Blacks,37,3,2556.21,5,1,1,511,Need Attention,Consumer,2009-11-16,2012-11-24,5
+452,Larry Hughes,527,3,1993.067,1,1,1,111,Hibernating / Lost,Home Office,2009-11-06,2011-07-23,7
+453,Larry Tron,88,11,24029.357500000002,4,5,4,454,High-Value (Champions),Home Office,2009-01-03,2012-10-04,1
+454,Laura Armstrong,131,7,12394.490000000002,3,3,3,333,Potential Loyalists,Small Business,2009-03-12,2012-08-22,3
+455,Laurel Beltran,264,4,4531.912,2,2,1,221,Hibernating / Lost,Consumer,2009-01-25,2012-04-11,7
+456,Laurel Elliston,74,9,28981.8145,4,4,5,445,High-Value (Champions),Corporate,2009-12-03,2012-10-18,1
+457,Laurel Workman,20,4,21138.760000000002,5,2,4,524,Potential Loyalists,Home Office,2009-10-17,2012-12-11,3
+458,Lauren Leatherbury,37,15,34621.9395,5,5,5,555,High-Value (Champions),Corporate,2009-09-05,2012-11-24,1
+459,Lela Donovan,90,9,38012.0305,4,4,5,445,High-Value (Champions),Corporate,2009-06-18,2012-10-02,1
+460,Lena Cacioppo,758,4,2939.316,1,2,1,121,Hibernating / Lost,Home Office,2009-03-22,2010-12-04,7
+461,Lena Creighton,10,15,48460.135,5,5,5,555,High-Value (Champions),Home Office,2009-02-13,2012-12-21,1
+462,Lena Hernandez,106,4,7008.4265,4,2,2,422,Potential Loyalists,Home Office,2010-09-20,2012-09-16,3
+463,Lena Radford,4,7,5169.2175,5,3,1,531,Potential Loyalists,Small Business,2009-12-22,2012-12-27,3
+464,Linda Cazamias,1200,2,12119.77,1,1,3,113,Hibernating / Lost,Corporate,2009-09-17,2009-09-18,7
+465,Linda Southworth,233,10,26407.6725,2,5,4,254,At-Risk Customers,Consumer,2009-11-18,2012-05-12,6
+466,Lindsay Castell,223,8,16702.97,2,4,3,243,At-Risk Customers,Corporate,2009-03-12,2012-05-22,6
+467,Lindsay Shagiari,64,5,6084.9265,4,2,2,422,Potential Loyalists,Home Office,2010-05-20,2012-10-28,3
+468,Lindsay Williams,110,3,8598.7135,4,1,2,412,Need Attention,Corporate,2009-06-24,2012-09-12,5
+469,Lisa DeCherney,11,13,67914.0005,5,5,5,555,High-Value (Champions),Corporate,2009-12-12,2012-12-20,1
+470,Lisa Hazard,46,6,11459.3025,5,3,2,532,Potential Loyalists,Home Office,2009-08-19,2012-11-15,3
+471,Lisa Ryan,23,3,3489.29,5,1,1,511,Need Attention,Home Office,2009-05-21,2012-12-08,5
+472,Liz Carlisle,56,9,12282.804,5,4,3,543,Loyal Customers,Corporate,2009-07-17,2012-11-05,2
+473,Liz MacKendrick,182,14,76306.4315,3,5,5,355,Loyal Customers,Corporate,2009-01-29,2012-07-02,2
+474,Liz Pelletier,264,9,16967.415,2,4,3,243,At-Risk Customers,Corporate,2009-03-26,2012-04-11,6
+475,Liz Price,54,13,23662.4305,5,5,4,554,High-Value (Champions),Corporate,2009-01-12,2012-11-07,1
+476,Liz Thompson,139,4,506.8,3,2,1,321,Potential Loyalists,Corporate,2010-02-21,2012-08-14,3
+477,Liz Willingham,74,10,33230.628000000004,4,5,5,455,High-Value (Champions),Home Office,2009-07-03,2012-10-18,1
+478,Logan Currie,439,3,8520.4,1,1,2,112,Hibernating / Lost,Small Business,2010-08-20,2011-10-19,7
+479,Logan Haushalter,2,12,50662.9455,5,5,5,555,High-Value (Champions),Corporate,2009-06-26,2012-12-29,1
+480,Lori Olson,170,4,3194.0299999999997,3,2,1,321,Potential Loyalists,Consumer,2010-03-12,2012-07-14,3
+481,Luke Foster,91,4,21231.0,4,2,4,424,Potential Loyalists,Corporate,2009-08-05,2012-10-01,3
+482,Luke Schmidt,160,11,27762.452,3,5,4,354,Loyal Customers,Home Office,2009-01-08,2012-07-24,2
+483,Luke Weiss,20,7,15534.386,5,3,3,533,Potential Loyalists,Corporate,2010-05-14,2012-12-11,3
+484,Lycoris Saunders,3,13,46429.649999999994,5,5,5,555,High-Value (Champions),Corporate,2009-12-06,2012-12-28,1
+485,Lynn Smith,616,7,5371.4,1,3,1,131,At-Risk Customers,Corporate,2009-03-26,2011-04-25,6
+486,Magdelene Morse,187,8,30412.951,3,4,5,345,Loyal Customers,Home Office,2009-10-20,2012-06-27,2
+487,Marc Crier,55,14,34298.65,5,5,5,555,High-Value (Champions),Corporate,2009-02-01,2012-11-06,1
+488,Marc Harrigan,1063,3,3628.6805,1,1,1,111,Hibernating / Lost,Home Office,2009-03-18,2010-02-02,7
+489,Maria Bertelson,304,15,29606.006500000003,2,5,5,255,At-Risk Customers,Home Office,2009-01-10,2012-03-02,6
+490,Maria Etezadi,1243,1,1219.2485,1,1,1,111,Hibernating / Lost,Home Office,2009-08-06,2009-08-06,7
+491,Maria Zettner,120,8,19871.816,3,4,4,344,Loyal Customers,Corporate,2009-01-31,2012-09-02,2
+492,Maribeth Dona,207,6,37359.520000000004,3,3,5,335,Potential Loyalists,Home Office,2009-06-13,2012-06-07,3
+493,Maribeth Schnelling,126,4,1722.51,3,2,1,321,Potential Loyalists,Corporate,2009-01-06,2012-08-27,3
+494,Maribeth Yedwab,1,7,10653.8195,5,3,2,532,Potential Loyalists,Home Office,2010-04-22,2012-12-30,3
+495,Marina Lichtenstein,156,4,3238.911,3,2,1,321,Potential Loyalists,Corporate,2009-01-05,2012-07-28,3
+496,Maris LaWare,410,2,5062.991999999999,1,1,1,111,Hibernating / Lost,Home Office,2010-12-26,2011-11-17,7
+497,Mark Cousins,165,18,70579.7275,3,5,5,355,Loyal Customers,Corporate,2009-09-16,2012-07-19,2
+498,Mark Haberlin,182,4,3728.5860000000002,3,2,1,321,Potential Loyalists,Small Business,2009-01-09,2012-07-02,3
+499,Mark Hamilton,385,1,450.99,1,1,1,111,Hibernating / Lost,Home Office,2011-12-12,2011-12-12,7
+500,Mark Packer,673,7,9782.5655,1,3,2,132,At-Risk Customers,Small Business,2009-07-27,2011-02-27,6
+501,Mark Van Huff,362,3,13864.7975,2,1,3,213,Hibernating / Lost,Home Office,2009-12-15,2012-01-04,7
+502,Mary O'Rourke,604,3,4110.91,1,1,1,111,Hibernating / Lost,Home Office,2009-02-23,2011-05-07,7
+503,Mary Zewe,78,3,23190.2165,4,1,4,414,Need Attention,Corporate,2009-05-08,2012-10-14,5
+504,MaryBeth Skach,152,6,14278.497,3,3,3,333,Potential Loyalists,Home Office,2009-08-14,2012-08-01,3
+505,Mathew Reese,206,9,25012.970500000003,3,4,4,344,Loyal Customers,Small Business,2009-05-22,2012-06-08,2
+506,Matt Abelman,141,12,60962.347,3,5,5,355,Loyal Customers,Home Office,2009-01-31,2012-08-12,2
+507,Matt Collins,668,5,10578.3685,1,2,2,122,Hibernating / Lost,Consumer,2009-01-05,2011-03-04,7
+508,Matt Collister,292,10,23724.928,2,5,4,254,At-Risk Customers,Home Office,2009-01-01,2012-03-14,6
+509,Matt Connell,77,7,23881.36,4,3,4,434,Potential Loyalists,Corporate,2009-04-20,2012-10-15,3
+510,Matt Hagelstein,1,3,683.8999999999999,5,1,1,511,Need Attention,Home Office,2011-02-26,2012-12-30,5
+511,Matthew Clasen,141,3,775.9499999999999,3,1,1,311,Need Attention,Consumer,2009-08-28,2012-08-12,5
+512,Matthew Grinstein,64,10,38698.7895,4,5,5,455,High-Value (Champions),Small Business,2009-08-21,2012-10-28,1
+513,Maureen Fritzler,258,6,12873.3755,2,3,3,233,At-Risk Customers,Corporate,2010-06-16,2012-04-17,6
+514,Maureen Gastineau,108,7,29885.510000000002,4,4,5,445,High-Value (Champions),Consumer,2010-02-13,2012-09-14,1
+515,Maureen Grace,947,1,3681.7495,1,1,1,111,Hibernating / Lost,Corporate,2010-05-29,2010-05-29,7
+516,Maurice Satty,7,4,555.82,5,2,1,521,Potential Loyalists,Corporate,2009-04-06,2012-12-24,3
+517,Max Engle,361,6,2681.0225,2,3,1,231,At-Risk Customers,Corporate,2009-02-08,2012-01-05,6
+518,Max Jones,88,10,29810.989999999998,4,5,5,455,High-Value (Champions),Home Office,2009-07-26,2012-10-04,1
+519,Max Ludwig,727,4,10922.702,1,2,2,122,Hibernating / Lost,Corporate,2009-07-27,2011-01-04,7
+520,Maxwell Schwartz,149,11,30928.8365,3,5,5,355,Loyal Customers,Corporate,2009-03-09,2012-08-04,2
+521,Maya Herman,110,7,7274.6065,4,4,2,442,Loyal Customers,Corporate,2009-08-15,2012-09-12,2
+522,Meg O'Connel,56,11,30557.7815,5,5,5,555,High-Value (Champions),Corporate,2009-05-26,2012-11-05,1
+523,Meg Tillman,169,8,29898.234500000002,3,4,5,345,Loyal Customers,Small Business,2009-06-03,2012-07-15,2
+524,Melanie Page,390,5,19415.425,1,2,4,124,Hibernating / Lost,Corporate,2009-05-05,2011-12-07,7
+525,Michael Chen,381,4,25141.737,1,2,4,124,Hibernating / Lost,Consumer,2009-12-31,2011-12-16,7
+526,Michael Dominguez,81,16,18670.6405,4,5,3,453,Loyal Customers,Home Office,2009-01-24,2012-10-11,2
+527,Michael Grace,16,8,10884.82,5,4,2,542,Loyal Customers,Corporate,2009-02-04,2012-12-15,2
+528,Michael Granlund,131,8,10476.9865,3,4,2,342,Loyal Customers,Home Office,2009-07-06,2012-08-22,2
+529,Michael Kennedy,187,5,6339.3115,3,2,2,322,Potential Loyalists,Corporate,2009-08-31,2012-06-27,3
+530,Michael Moore,127,5,15077.853,3,2,3,323,Potential Loyalists,Corporate,2009-02-11,2012-08-26,3
+531,Michael Nguyen,657,3,17409.38,1,1,3,113,Hibernating / Lost,Small Business,2009-12-21,2011-03-15,7
+532,Michael Oakman,31,11,47040.004,5,5,5,555,High-Value (Champions),Small Business,2009-03-24,2012-11-30,1
+533,Michael Paige,83,5,9111.509999999998,4,2,2,422,Potential Loyalists,Small Business,2010-02-08,2012-10-09,3
+534,Michael Stewart,132,5,6140.259,3,2,2,322,Potential Loyalists,Small Business,2009-03-16,2012-08-21,3
+535,Michelle Arnett,67,7,11529.5835,4,4,2,442,Loyal Customers,Home Office,2009-09-24,2012-10-25,2
+536,Michelle Ellison,148,12,34308.89,3,5,5,355,Loyal Customers,Consumer,2009-04-06,2012-08-05,2
+537,Michelle Huthwaite,196,7,13895.8125,3,4,3,343,Loyal Customers,Home Office,2009-01-13,2012-06-18,2
+538,Michelle Lonsdale,38,9,34524.2525,5,4,5,545,High-Value (Champions),Corporate,2011-03-28,2012-11-23,1
+539,Michelle Moray,276,9,33055.1975,2,4,5,245,At-Risk Customers,Corporate,2009-01-10,2012-03-30,6
+540,Michelle Tran,144,10,10174.2555,3,5,2,352,Loyal Customers,Consumer,2009-09-30,2012-08-09,2
+541,Mick Brown,875,4,14156.22,1,2,3,123,Hibernating / Lost,Consumer,2009-02-15,2010-08-09,7
+542,Mick Crebagga,21,12,31042.314,5,5,5,555,High-Value (Champions),Home Office,2009-02-05,2012-12-10,1
+543,Mick Hernandez,204,3,793.38,3,1,1,311,Need Attention,Home Office,2009-10-11,2012-06-10,5
+544,Mike Caudle,260,4,19580.65,2,2,4,224,Hibernating / Lost,Corporate,2011-04-20,2012-04-15,7
+545,Mike Gockenbach,476,6,10820.539999999999,1,3,2,132,At-Risk Customers,Consumer,2009-01-13,2011-09-12,6
+546,Mike Kennedy,135,10,16929.76,3,5,3,353,Loyal Customers,Corporate,2009-03-15,2012-08-18,2
+547,Mike Pelletier,110,6,17243.277000000002,4,3,3,433,Potential Loyalists,Corporate,2009-09-05,2012-09-12,3
+548,Mike Vittorini,139,8,20601.493,3,4,4,344,Loyal Customers,Small Business,2009-04-26,2012-08-14,2
+549,Mitch Gastineau,91,8,48521.1685,4,4,5,445,High-Value (Champions),Small Business,2009-05-22,2012-10-01,1
+550,Mitch Webber,433,5,13806.53,1,2,3,123,Hibernating / Lost,Corporate,2009-05-25,2011-10-25,7
+551,Mitch Willingham,171,7,30525.550000000003,3,4,5,345,Loyal Customers,Corporate,2009-05-01,2012-07-13,2
+552,Monica Federle,55,7,6626.16,5,4,2,542,Loyal Customers,Corporate,2009-08-24,2012-11-06,2
+553,Muhammed Lee,76,7,27109.49,4,4,4,444,High-Value (Champions),Consumer,2010-12-20,2012-10-16,1
+554,Muhammed MacIntyre,121,8,8796.42,3,4,2,342,Loyal Customers,Small Business,2009-12-16,2012-09-01,2
+555,Muhammed Yedwab,35,16,62544.0205,5,5,5,555,High-Value (Champions),Consumer,2009-01-06,2012-11-26,1
+556,Nancy Lomonaco,591,6,20751.6195,1,3,4,134,At-Risk Customers,Home Office,2009-05-24,2011-05-20,6
+557,Naresj Patel,118,8,27886.420000000002,3,4,4,344,Loyal Customers,Small Business,2009-03-15,2012-09-04,2
+558,Nat Carroll,21,7,8415.2545,5,4,2,542,Loyal Customers,Home Office,2009-03-24,2012-12-10,2
+559,Nat Gilpin,246,7,6346.413500000001,2,4,2,242,At-Risk Customers,Consumer,2009-06-10,2012-04-29,6
+560,Natalie DeCherney,931,1,125.9,1,1,1,111,Hibernating / Lost,Consumer,2010-06-14,2010-06-14,7
+561,Natalie Fritzler,228,2,3005.61,2,1,1,211,Hibernating / Lost,Home Office,2009-03-01,2012-05-17,7
+562,Natalie Webber,27,15,13564.495,5,5,3,553,Loyal Customers,Consumer,2009-01-18,2012-12-04,2
+563,Nathan Cano,174,5,4284.0599999999995,3,2,1,321,Potential Loyalists,Consumer,2009-06-29,2012-07-10,3
+564,Nathan Gelder,147,5,14532.89,3,2,3,323,Potential Loyalists,Home Office,2009-05-23,2012-08-06,3
+565,Nathan Mautz,42,17,54917.7325,5,5,5,555,High-Value (Champions),Corporate,2009-01-22,2012-11-19,1
+566,Neil Ducich,836,4,4263.9580000000005,1,2,1,121,Hibernating / Lost,Home Office,2009-07-03,2010-09-17,7
+567,Neil French,155,8,19448.710499999997,3,4,4,344,Loyal Customers,Consumer,2009-05-11,2012-07-29,2
+568,Neil Knudson,55,14,29858.367,5,5,5,555,High-Value (Champions),Corporate,2009-04-27,2012-11-06,1
+569,Neola Schneider,581,4,6013.87,1,2,1,121,Hibernating / Lost,Home Office,2009-02-21,2011-05-30,7
+570,Neoma Murray,22,4,19406.442000000003,5,2,4,524,Potential Loyalists,Small Business,2010-08-30,2012-12-09,3
+571,Nick Crebassa,92,8,45458.407,4,4,5,445,High-Value (Champions),Corporate,2009-10-06,2012-09-30,1
+572,Nick Radford,138,5,12877.18,3,2,3,323,Potential Loyalists,Corporate,2009-09-13,2012-08-15,3
+573,Nick Zandusky,568,7,14815.813,1,4,3,143,At-Risk Customers,Small Business,2009-02-06,2011-06-12,6
+574,Nicole Brennan,108,15,44184.6035,4,5,5,455,High-Value (Champions),Home Office,2009-02-11,2012-09-14,1
+575,Nicole Fjeld,852,2,153.03,1,1,1,111,Hibernating / Lost,Small Business,2010-08-06,2010-09-01,7
+576,Nicole Hansen,241,8,20471.19,2,4,4,244,At-Risk Customers,Small Business,2009-02-18,2012-05-04,6
+577,Noah Childs,379,3,7636.6225,2,1,2,212,Hibernating / Lost,Home Office,2009-03-19,2011-12-18,7
+578,Noel Staavos,248,12,59092.098,2,5,5,255,At-Risk Customers,Home Office,2009-05-05,2012-04-27,6
+579,Nona Balk,155,6,14075.3185,3,3,3,333,Potential Loyalists,Corporate,2009-11-23,2012-07-29,3
+580,Nora Paige,5,11,17197.7,5,5,3,553,Loyal Customers,Small Business,2009-03-29,2012-12-26,2
+581,Nora Pelletier,92,8,22648.883,4,4,4,444,High-Value (Champions),Home Office,2009-04-07,2012-09-30,1
+582,Nora Price,15,18,25399.844,5,5,4,554,High-Value (Champions),Small Business,2009-03-10,2012-12-16,1
+583,Odella Nelson,68,9,13080.812,4,4,3,443,Loyal Customers,Small Business,2009-04-04,2012-10-24,2
+584,Olvera Toch,312,7,24633.703500000003,2,4,4,244,At-Risk Customers,Home Office,2009-01-09,2012-02-23,6
+585,Pamela Coakley,167,2,564.7035,3,1,1,311,Need Attention,Corporate,2010-01-08,2012-07-17,5
+586,Pamela Stobb,63,5,13306.16,4,2,3,423,Potential Loyalists,Consumer,2009-03-22,2012-10-29,3
+587,Parhena Norris,164,4,31955.079,3,2,5,325,Potential Loyalists,Home Office,2009-04-08,2012-07-20,3
+588,Patricia Hirasaki,163,3,2576.17,3,1,1,311,Need Attention,Home Office,2010-02-27,2012-07-21,5
+589,Patrick Bzostek,108,6,35495.4365,4,3,5,435,Potential Loyalists,Consumer,2009-10-25,2012-09-14,3
+590,Patrick Gardner,276,5,15785.5065,2,2,3,223,Hibernating / Lost,Consumer,2009-08-22,2012-03-30,7
+591,Patrick Jones,51,17,35186.024,5,5,5,555,High-Value (Champions),Home Office,2009-01-03,2012-11-10,1
+592,Patrick O'Brill,289,7,8970.3945,2,4,2,242,At-Risk Customers,Home Office,2009-12-07,2012-03-17,6
+593,Patrick O'Donnell,25,8,13551.11,5,4,3,543,Loyal Customers,Home Office,2009-08-28,2012-12-06,2
+594,Patrick Ryan,69,12,23111.3105,4,5,4,454,High-Value (Champions),Corporate,2009-04-17,2012-10-23,1
+595,Paul Gonzalez,665,2,567.89,1,1,1,111,Hibernating / Lost,Corporate,2010-08-24,2011-03-07,7
+596,Paul Knutson,64,7,26188.544500000004,4,4,4,444,High-Value (Champions),Corporate,2009-09-21,2012-10-28,1
+597,Paul Lucas,803,4,1911.6100000000001,1,2,1,121,Hibernating / Lost,Corporate,2009-05-16,2010-10-20,7
+598,Paul MacIntyre,170,6,13812.440000000002,3,3,3,333,Potential Loyalists,Corporate,2009-09-11,2012-07-14,3
+599,Paul Prost,649,8,4487.6995,1,4,1,141,At-Risk Customers,Corporate,2009-01-17,2011-03-23,6
+600,Paul Stevenson,201,4,15715.434500000001,3,2,3,323,Potential Loyalists,Corporate,2010-03-27,2012-06-13,3
+601,Paul Van Hugh,302,4,40839.29,2,2,5,225,Hibernating / Lost,Consumer,2009-08-07,2012-03-04,7
+602,Pauline Chand,43,14,38343.6275,5,5,5,555,High-Value (Champions),Corporate,2009-01-05,2012-11-18,1
+603,Pauline Johnson,1041,3,6044.71,1,1,2,112,Hibernating / Lost,Corporate,2010-02-04,2010-02-24,7
+604,Pauline Webber,97,9,26405.7275,4,4,4,444,High-Value (Champions),Consumer,2009-06-08,2012-09-25,1
+605,Penelope Sewall,104,7,14089.9085,4,4,3,443,Loyal Customers,Home Office,2010-01-24,2012-09-18,2
+606,Pete Armstrong,175,5,13712.1675,3,2,3,323,Potential Loyalists,Consumer,2010-09-25,2012-07-09,3
+607,Pete Kriz,881,2,604.79,1,1,1,111,Hibernating / Lost,Corporate,2009-09-17,2010-08-03,7
+608,Pete Takahito,51,5,8694.495,5,2,2,522,Potential Loyalists,Corporate,2009-06-11,2012-11-10,3
+609,Peter Buhler,134,5,9281.880000000001,3,2,2,322,Potential Loyalists,Consumer,2009-02-22,2012-08-19,3
+610,Peter Fuller,353,11,54715.744,2,5,5,255,At-Risk Customers,Corporate,2009-04-18,2012-01-13,6
+611,Peter McVee,107,3,2910.13,4,1,1,411,Need Attention,Small Business,2009-02-24,2012-09-15,5
+612,Philip Brown,70,12,64716.7965,4,5,5,455,High-Value (Champions),Corporate,2009-03-28,2012-10-22,1
+613,Philip Fox,19,5,13433.4105,5,2,3,523,Potential Loyalists,Home Office,2009-11-29,2012-12-12,3
+614,Philisse Overcash,408,2,8396.5,1,1,2,112,Hibernating / Lost,Small Business,2011-06-22,2011-11-19,7
+615,Phillina Ober,308,6,2157.49,2,3,1,231,At-Risk Customers,Small Business,2009-09-18,2012-02-27,6
+616,Phillip Breyer,75,4,2899.54,4,2,1,421,Potential Loyalists,Corporate,2010-09-21,2012-10-17,3
+617,Phillip Flathmann,130,9,16286.2955,3,4,3,343,Loyal Customers,Small Business,2009-02-15,2012-08-23,2
+618,Pierre Wener,102,6,4751.860000000001,4,3,1,431,Potential Loyalists,Home Office,2009-11-04,2012-09-20,3
+619,Quincy Jones,2,19,48398.567,5,5,5,555,High-Value (Champions),Corporate,2009-03-05,2012-12-29,1
+620,Rachel Payne,113,7,18434.28,4,4,3,443,Loyal Customers,Consumer,2009-10-30,2012-09-09,2
+621,Ralph Arnett,391,7,8292.69,1,4,2,142,At-Risk Customers,Consumer,2009-05-28,2011-12-06,6
+622,Ralph Kennedy,51,12,21329.728,5,5,4,554,High-Value (Champions),Corporate,2009-06-21,2012-11-10,1
+623,Ralph Knight,358,7,10174.914999999999,2,4,2,242,At-Risk Customers,Consumer,2009-09-01,2012-01-08,6
+624,Randy Bradley,143,6,18407.059999999998,3,3,3,333,Potential Loyalists,Small Business,2009-06-16,2012-08-10,3
+625,Randy Ferguson,222,9,20332.1235,2,4,4,244,At-Risk Customers,Home Office,2009-01-17,2012-05-23,6
+626,Raymond Book,59,11,70426.59,5,5,5,555,High-Value (Champions),Consumer,2009-03-06,2012-11-02,1
+627,Raymond Fair,134,8,8270.075,3,4,2,342,Loyal Customers,Small Business,2009-04-13,2012-08-19,2
+628,Resi Polking,277,9,18598.788,2,4,3,243,At-Risk Customers,Small Business,2009-03-12,2012-03-29,6
+629,Ricardo Block,636,5,16004.68,1,2,3,123,Hibernating / Lost,Corporate,2009-02-05,2011-04-05,7
+630,Ricardo Emerson,16,4,19562.37,5,2,4,524,Potential Loyalists,Corporate,2011-08-07,2012-12-15,3
+631,Richard Bierner,139,5,7103.9495,3,2,2,322,Potential Loyalists,Small Business,2009-03-08,2012-08-14,3
+632,Richard Eichhorn,8,4,11783.849999999999,5,2,2,522,Potential Loyalists,Consumer,2010-04-10,2012-12-23,3
+633,Rick Bensley,99,6,20704.2195,4,3,4,434,Potential Loyalists,Consumer,2010-11-13,2012-09-23,3
+634,Rick Duston,103,6,30727.311,4,3,5,435,Potential Loyalists,Corporate,2009-04-22,2012-09-19,3
+635,Rick Hansen,9,10,9250.624,5,5,2,552,Loyal Customers,Corporate,2009-06-13,2012-12-22,2
+636,Rick Huthwaite,538,2,415.82000000000005,1,1,1,111,Hibernating / Lost,Corporate,2009-03-26,2011-07-12,7
+637,Rick Reed,1431,2,32088.42,1,1,5,115,Hibernating / Lost,Consumer,2009-01-12,2009-01-30,7
+638,Rick Wilson,21,14,58024.7515,5,5,5,555,High-Value (Champions),Consumer,2009-02-11,2012-12-10,1
+639,Ritsa Hightower,65,8,54630.1045,4,4,5,445,High-Value (Champions),Corporate,2010-03-30,2012-10-27,1
+640,Rob Beeghly,399,4,9664.17,1,2,2,122,Hibernating / Lost,Consumer,2009-03-12,2011-11-28,7
+641,Rob Dowd,109,8,16448.427499999998,4,4,3,443,Loyal Customers,Corporate,2009-07-15,2012-09-13,2
+642,Rob Haberlin,89,16,39069.3685,4,5,5,455,High-Value (Champions),Corporate,2009-01-10,2012-10-03,1
+643,Rob Lucas,263,2,5395.09,2,1,1,211,Hibernating / Lost,Small Business,2010-11-04,2012-04-12,7
+644,Rob Williams,143,4,3592.922,3,2,1,321,Potential Loyalists,Home Office,2009-06-28,2012-08-10,3
+645,Robert Barroso,612,5,34398.05,1,2,5,125,Hibernating / Lost,Small Business,2009-02-05,2011-04-29,7
+646,Robert Dilbeck,216,5,6232.900000000001,2,2,2,222,Hibernating / Lost,Corporate,2009-02-07,2012-05-29,7
+647,Robert Marley,327,7,5860.3745,2,4,1,241,At-Risk Customers,Corporate,2009-06-01,2012-02-08,6
+648,Robert Waldorf,480,5,9698.114,1,2,2,122,Hibernating / Lost,Home Office,2009-01-05,2011-09-08,7
+649,Roger Barcio,659,3,1533.01,1,1,1,111,Hibernating / Lost,Corporate,2009-04-30,2011-03-13,7
+650,Roger Demir,258,6,20742.670000000002,2,3,4,234,At-Risk Customers,Consumer,2009-11-20,2012-04-17,6
+651,Roland Black,4,6,14228.586,5,3,3,533,Potential Loyalists,Small Business,2009-09-25,2012-12-27,3
+652,Roland Fjeld,121,5,2804.93,3,2,1,321,Potential Loyalists,Corporate,2009-02-19,2012-09-01,3
+653,Roland Murray,98,4,781.02,4,2,1,421,Potential Loyalists,Home Office,2010-02-20,2012-09-24,3
+654,Rose O'Brian,80,4,8584.654999999999,4,2,2,422,Potential Loyalists,Home Office,2009-03-08,2012-10-12,3
+655,Ross Baird,826,4,5602.6345,1,2,1,121,Hibernating / Lost,Corporate,2009-09-19,2010-09-27,7
+656,Ross DeVincentis,342,2,25583.82,2,1,4,214,Hibernating / Lost,Corporate,2010-03-27,2012-01-24,7
+657,Roy Collins,176,9,11626.16,3,4,2,342,Loyal Customers,Corporate,2009-04-09,2012-07-08,2
+658,Roy French,486,5,15290.048,1,2,3,123,Hibernating / Lost,Consumer,2009-04-09,2011-09-02,7
+659,Roy Phan,100,12,46546.165,4,5,5,455,High-Value (Champions),Corporate,2009-01-21,2012-09-22,1
+660,Roy Skaria,27,18,92542.15299999999,5,5,5,555,High-Value (Champions),Corporate,2009-04-11,2012-12-04,1
+661,Ruben Ausman,12,4,17061.5965,5,2,3,523,Potential Loyalists,Corporate,2009-02-23,2012-12-19,3
+662,Ruben Dartt,237,7,46399.438,2,4,5,245,At-Risk Customers,Corporate,2009-01-08,2012-05-08,6
+663,Russell Applegate,202,7,32583.0165,3,4,5,345,Loyal Customers,Home Office,2009-01-22,2012-06-12,2
+664,Russell D'Ascenzo,161,4,928.0025,3,2,1,321,Potential Loyalists,Consumer,2010-04-09,2012-07-23,3
+665,Ryan Akin,641,3,4327.8555,1,1,1,111,Hibernating / Lost,Consumer,2009-03-02,2011-03-31,7
+666,Ryan Crowe,29,6,8069.1415,5,3,2,532,Potential Loyalists,Small Business,2009-03-28,2012-12-02,3
+667,Sally Hughsby,135,16,22820.146,3,5,4,354,Loyal Customers,Consumer,2009-02-20,2012-08-18,2
+668,Sally Knutson,102,15,38449.29,4,5,5,455,High-Value (Champions),Corporate,2009-04-29,2012-09-20,1
+669,Sally Matthias,214,8,40273.752,3,4,5,345,Loyal Customers,Home Office,2009-01-22,2012-05-31,2
+670,Sam Craven,240,6,6401.41,2,3,2,232,At-Risk Customers,Home Office,2010-01-18,2012-05-05,6
+671,Sam Zeldin,763,4,1290.002,1,2,1,121,Hibernating / Lost,Small Business,2009-06-12,2010-11-29,7
+672,Sample Company A,425,1,2484.7455,1,1,1,111,Hibernating / Lost,Home Office,2011-11-02,2011-11-02,7
+673,Sandra Flanagan,107,7,13796.525,4,4,3,443,Loyal Customers,Home Office,2009-01-08,2012-09-15,2
+674,Sandra Glassco,30,9,25908.939,5,4,4,544,High-Value (Champions),Home Office,2009-04-28,2012-12-01,1
+675,Sanjit Chand,40,8,40353.994,5,4,5,545,High-Value (Champions),Home Office,2010-07-15,2012-11-21,1
+676,Sanjit Engle,14,3,1896.7,5,1,1,511,Need Attention,Home Office,2009-12-07,2012-12-17,5
+677,Sanjit Jacobs,455,8,15371.42,1,4,3,143,At-Risk Customers,Consumer,2009-01-16,2011-10-03,6
+678,Saphhira Shifley,83,11,13576.145499999999,4,5,3,453,Loyal Customers,Consumer,2009-11-26,2012-10-09,2
+679,Sara Luxemburg,277,12,16316.5715,2,5,3,253,At-Risk Customers,Small Business,2009-05-11,2012-03-29,6
+680,Sarah Bern,183,5,629.7,3,2,1,321,Potential Loyalists,Corporate,2009-09-05,2012-07-01,3
+681,Sarah Brown,27,9,10778.6705,5,4,2,542,Loyal Customers,Consumer,2009-08-04,2012-12-04,2
+682,Sarah Foster,412,5,10735.5655,1,2,2,122,Hibernating / Lost,Corporate,2009-08-15,2011-11-15,7
+683,Sarah Jordon,102,5,8199.34,4,2,2,422,Potential Loyalists,Consumer,2009-12-18,2012-09-20,3
+684,Scot Coram,159,6,16775.2625,3,3,3,333,Potential Loyalists,Corporate,2009-04-02,2012-07-25,3
+685,Scot Wooten,33,3,1635.65,5,1,1,511,Need Attention,Corporate,2009-04-05,2012-11-28,5
+686,Scott Cohen,119,9,29811.3505,3,4,5,345,Loyal Customers,Consumer,2009-04-21,2012-09-03,2
+687,Scott Williamson,377,2,852.11,2,1,1,211,Hibernating / Lost,Small Business,2010-02-22,2011-12-20,7
+688,Sean Braxton,278,6,17969.387,2,3,3,233,At-Risk Customers,Small Business,2009-08-22,2012-03-28,6
+689,Sean Christensen,484,6,12361.165500000001,1,3,3,133,At-Risk Customers,Home Office,2009-03-17,2011-09-04,6
+690,Sean Miller,22,6,28271.0575,5,3,4,534,Potential Loyalists,Small Business,2009-11-22,2012-12-09,3
+691,Sean O'Donnell,108,10,11506.3625,4,5,2,452,Loyal Customers,Corporate,2009-01-27,2012-09-14,2
+692,Sean Wendt,167,8,18947.68,3,4,4,344,Loyal Customers,Corporate,2009-01-10,2012-07-17,2
+693,Seth Vernon,302,6,38977.811,2,3,5,235,At-Risk Customers,Home Office,2009-06-28,2012-03-04,6
+694,Shahid Collister,290,2,11728.453,2,1,2,212,Hibernating / Lost,Home Office,2009-11-08,2012-03-16,7
+695,Shahid Hopkins,133,6,4605.224,3,3,1,331,Potential Loyalists,Small Business,2011-05-28,2012-08-20,3
+696,Shahid Shariari,39,14,29786.8295,5,5,5,555,High-Value (Champions),Corporate,2009-04-10,2012-11-22,1
+697,Sharelle Roach,797,3,4735.263999999999,1,1,1,111,Hibernating / Lost,Home Office,2009-02-16,2010-10-26,7
+698,Shaun Chance,437,9,12748.137999999999,1,4,3,143,At-Risk Customers,Corporate,2009-08-10,2011-10-21,6
+699,Shaun Weien,235,4,11813.18,2,2,3,223,Hibernating / Lost,Home Office,2009-09-06,2012-05-10,7
+700,Sheri Gordon,72,6,22900.1275,4,3,4,434,Potential Loyalists,Corporate,2009-05-28,2012-10-20,3
+701,Shirley Daniels,105,2,12897.49,4,1,3,413,New Customers,Corporate,2012-02-11,2012-09-17,4
+702,Shirley Jackson,448,5,5333.764,1,2,1,121,Hibernating / Lost,Corporate,2009-06-24,2011-10-10,7
+703,Shirley Schmidt,2,3,7054.715499999999,5,1,2,512,Need Attention,Corporate,2010-09-17,2012-12-29,5
+704,Shui Tom,252,4,27672.44,2,2,4,224,Hibernating / Lost,Consumer,2010-05-17,2012-04-23,7
+705,Sibella Parks,124,10,17557.869,3,5,3,353,Loyal Customers,Small Business,2009-12-28,2012-08-29,2
+706,Skye Norling,346,5,11710.83,2,2,2,222,Hibernating / Lost,Home Office,2009-01-15,2012-01-20,7
+707,Sonia Cooley,131,5,10086.07,3,2,2,322,Potential Loyalists,Corporate,2010-06-30,2012-08-22,3
+708,Sonia Sunley,189,16,44248.829,3,5,5,355,Loyal Customers,Corporate,2009-02-04,2012-06-25,2
+709,Speros Goranitis,85,7,12539.34,4,4,3,443,Loyal Customers,Corporate,2009-09-05,2012-10-07,2
+710,Stefania Perrino,111,5,12332.5095,4,2,3,423,Potential Loyalists,Corporate,2009-05-17,2012-09-11,3
+711,Stefanie Holloman,510,2,8451.078,1,1,2,112,Hibernating / Lost,Small Business,2009-01-26,2011-08-09,7
+712,Stephanie Phelps,33,6,25071.544,5,3,4,534,Potential Loyalists,Consumer,2009-02-26,2012-11-28,3
+713,Stephanie Ulpright,92,5,27898.8725,4,2,4,424,Potential Loyalists,Consumer,2009-05-02,2012-09-30,3
+714,Steve Carroll,150,5,7032.479,3,2,2,322,Potential Loyalists,Consumer,2009-06-01,2012-08-03,3
+715,Steve Chapman,54,8,42872.99,5,4,5,545,High-Value (Champions),Corporate,2009-08-31,2012-11-07,1
+716,Steve Nguyen,45,13,23642.812,5,5,4,554,High-Value (Champions),Small Business,2009-05-07,2012-11-16,1
+717,Steven Cartwright,227,4,3821.6980000000003,2,2,1,221,Hibernating / Lost,Home Office,2010-08-20,2012-05-18,7
+718,Steven Roelle,153,6,21108.3575,3,3,4,334,Potential Loyalists,Small Business,2009-10-20,2012-07-31,3
+719,Steven Ward,401,7,20241.5,1,4,4,144,At-Risk Customers,Consumer,2009-02-28,2011-11-26,6
+720,Stewart Carmichael,734,2,1134.88,1,1,1,111,Hibernating / Lost,Corporate,2009-07-24,2010-12-28,7
+721,Stewart Visinsky,99,6,8284.9355,4,3,2,432,Potential Loyalists,Corporate,2010-07-27,2012-09-23,3
+722,Stuart Calhoun,470,6,18745.641499999998,1,3,3,133,At-Risk Customers,Consumer,2009-01-19,2011-09-18,6
+723,Stuart Van,18,5,14040.890000000001,5,2,3,523,Potential Loyalists,Consumer,2009-04-08,2012-12-13,3
+724,Sue Ann Reed,386,5,6922.817,1,2,2,122,Hibernating / Lost,Consumer,2009-09-25,2011-12-11,7
+725,Sung Chung,21,4,9900.2845,5,2,2,522,Potential Loyalists,Home Office,2009-09-20,2012-12-10,3
+726,Sung Pak,10,8,20346.156,5,4,4,544,High-Value (Champions),Small Business,2010-06-05,2012-12-21,1
+727,Sung Shariari,181,7,4984.61,3,4,1,341,Loyal Customers,Corporate,2009-09-09,2012-07-03,2
+728,Susan Gilcrest,504,3,5709.4845,1,1,1,111,Hibernating / Lost,Home Office,2010-01-08,2011-08-15,7
+729,Susan MacKendrick,733,3,24129.84,1,1,4,114,Hibernating / Lost,Corporate,2009-06-30,2010-12-29,7
+730,Susan Pistek,154,6,9169.238,3,3,2,332,Potential Loyalists,Home Office,2009-06-14,2012-07-30,3
+731,Susan Vittorini,106,11,19146.37,4,5,4,454,High-Value (Champions),Corporate,2009-01-05,2012-09-16,1
+732,Suzanne McNair,117,8,21327.178,4,4,4,444,High-Value (Champions),Small Business,2009-12-25,2012-09-05,1
+733,Sylvia Foulston,80,18,88875.7575,4,5,5,455,High-Value (Champions),Corporate,2009-01-16,2012-10-12,1
+734,Tamara Chand,198,5,7676.209999999999,3,2,2,322,Potential Loyalists,Consumer,2009-03-24,2012-06-16,3
+735,Tamara Dahlen,295,7,27294.229,2,4,4,244,At-Risk Customers,Corporate,2009-01-04,2012-03-11,6
+736,Tamara Manning,42,7,33139.6535,5,4,5,545,High-Value (Champions),Corporate,2009-01-14,2012-11-19,1
+737,Tamara Willingham,278,10,30495.554,2,5,5,255,At-Risk Customers,Corporate,2009-06-03,2012-03-28,6
+738,Tanja Norvell,106,15,37446.559,4,5,5,455,High-Value (Champions),Consumer,2009-01-20,2012-09-16,1
+739,Ted Butterfield,1072,1,2531.272,1,1,1,111,Hibernating / Lost,Corporate,2010-01-24,2010-01-24,7
+740,Ted Trevino,246,5,8520.814,2,2,2,222,Hibernating / Lost,Corporate,2010-02-10,2012-04-29,7
+741,Thais Sissman,262,12,22675.454999999998,2,5,4,254,At-Risk Customers,Small Business,2009-02-10,2012-04-13,6
+742,Thea Hendricks,119,5,7459.047500000001,3,2,2,322,Potential Loyalists,Home Office,2011-05-20,2012-09-03,3
+743,Thea Hudgings,15,8,8085.0599999999995,5,4,2,542,Loyal Customers,Consumer,2009-01-21,2012-12-16,2
+744,Theone Pippenger,88,7,15223.73,4,4,3,443,Loyal Customers,Corporate,2009-06-12,2012-10-04,2
+745,Theresa Coyne,53,3,8019.349999999999,5,1,2,512,Need Attention,Home Office,2010-03-07,2012-11-08,5
+746,Theresa Swint,1,13,13119.31,5,5,3,553,Loyal Customers,Consumer,2009-03-02,2012-12-30,2
+747,Thomas Boland,206,7,14160.672499999999,3,4,3,343,Loyal Customers,Corporate,2009-03-18,2012-06-08,2
+748,Thomas Brumley,143,5,8819.5645,3,3,2,332,Potential Loyalists,Consumer,2009-03-10,2012-08-10,3
+749,Thomas Seio,630,3,12864.07,1,1,3,113,Hibernating / Lost,Home Office,2009-08-02,2011-04-11,7
+750,Thomas Thornton,203,7,11081.0615,3,4,2,342,Loyal Customers,Consumer,2010-04-27,2012-06-11,2
+751,Tiffany House,887,1,617.92,1,1,1,111,Hibernating / Lost,Corporate,2010-07-28,2010-07-28,7
+752,Tim Brockman,747,7,23653.516499999998,1,4,4,144,At-Risk Customers,Consumer,2009-03-30,2010-12-15,6
+753,Tim Taslimi,126,6,12331.7925,3,3,3,333,Potential Loyalists,Corporate,2009-12-28,2012-08-27,3
+754,Toby Braunhardt,1234,1,1060.342,1,1,1,111,Hibernating / Lost,Corporate,2009-08-15,2009-08-15,7
+755,Toby Carlisle,106,6,15070.041000000001,4,3,3,433,Potential Loyalists,Home Office,2010-09-19,2012-09-16,3
+756,Toby Grace,98,5,18129.8615,4,3,3,433,Potential Loyalists,Home Office,2011-06-20,2012-09-24,3
+757,Toby Knight,320,4,4873.847,2,2,1,221,Hibernating / Lost,Corporate,2009-09-19,2012-02-15,7
+758,Toby Swindell,324,7,13089.786,2,4,3,243,At-Risk Customers,Small Business,2009-01-14,2012-02-11,6
+759,Todd Boyes,109,9,33070.6105,4,4,5,445,High-Value (Champions),Small Business,2009-07-21,2012-09-13,1
+760,Todd Sumrall,373,2,3226.9795,2,1,1,211,Hibernating / Lost,Consumer,2011-06-10,2011-12-24,7
+761,Tom Ashbrook,689,3,12422.871000000001,1,1,3,113,Hibernating / Lost,Home Office,2010-03-05,2011-02-11,7
+762,Tom Boeckenhauer,74,7,10719.979000000001,4,4,2,442,Loyal Customers,Corporate,2009-06-04,2012-10-18,2
+763,Tom Prescott,50,11,8761.64,5,5,2,552,Loyal Customers,Small Business,2009-06-10,2012-11-11,2
+764,Tom Stivers,238,10,16842.6915,2,5,3,253,At-Risk Customers,Small Business,2009-03-30,2012-05-07,6
+765,Tom Zandusky,36,3,5186.99,5,1,1,511,Need Attention,Home Office,2009-08-18,2012-11-25,5
+766,Tonja Turnell,106,11,45788.670000000006,4,5,5,455,High-Value (Champions),Consumer,2009-03-21,2012-09-16,1
+767,Tony Chapman,284,5,41020.627,2,3,5,235,At-Risk Customers,Consumer,2009-06-25,2012-03-22,6
+768,Tony Molinari,1,6,12002.08,5,3,3,533,Potential Loyalists,Corporate,2009-05-19,2012-12-30,3
+769,Tony Sayre,15,16,29860.554999999997,5,5,5,555,High-Value (Champions),Home Office,2009-03-21,2012-12-16,1
+770,Tracy Blumstein,318,5,13049.6585,2,3,3,233,At-Risk Customers,Home Office,2009-04-06,2012-02-17,6
+771,Tracy Collins,204,11,28834.656,3,5,5,355,Loyal Customers,Consumer,2009-01-06,2012-06-10,2
+772,Tracy Hopkins,287,5,11853.5175,2,3,3,233,At-Risk Customers,Small Business,2009-05-25,2012-03-19,6
+773,Tracy Poddar,113,10,9212.673999999999,4,5,2,452,Loyal Customers,Corporate,2010-09-26,2012-09-09,2
+774,Tracy Zic,42,4,19018.65,5,2,4,524,Potential Loyalists,Consumer,2010-04-11,2012-11-19,3
+775,Troy Blackwell,93,9,26184.591500000002,4,4,4,444,High-Value (Champions),Home Office,2009-07-07,2012-09-29,1
+776,Troy Staebel,133,7,8422.81,3,4,2,342,Loyal Customers,Small Business,2009-03-24,2012-08-20,2
+777,Trudy Bell,514,8,3948.658,1,4,1,141,At-Risk Customers,Consumer,2009-02-12,2011-08-05,6
+778,Trudy Brown,626,6,4784.59,1,3,1,131,At-Risk Customers,Small Business,2009-10-27,2011-04-15,6
+779,Trudy Schmidt,203,5,5428.99,3,3,1,331,Potential Loyalists,Small Business,2009-03-06,2012-06-11,3
+780,Valerie Dominguez,136,7,7052.12,3,4,2,342,Loyal Customers,Corporate,2009-01-05,2012-08-17,2
+781,Valerie Mitchum,98,4,12911.4315,4,2,3,423,Potential Loyalists,Home Office,2011-01-03,2012-09-24,3
+782,Valerie Takahito,99,11,39517.0705,4,5,5,455,High-Value (Champions),Consumer,2009-05-07,2012-09-23,1
+783,Vicky Freymann,123,6,20949.488,3,3,4,334,Potential Loyalists,Home Office,2009-02-13,2012-08-30,3
+784,Victor Price,190,5,6329.3885,3,3,2,332,Potential Loyalists,Consumer,2009-01-06,2012-06-24,3
+785,Victoria Brennan,140,8,9011.42,3,4,2,342,Loyal Customers,Small Business,2009-01-23,2012-08-13,2
+786,Victoria Pisteka,266,10,19614.363,2,5,4,254,At-Risk Customers,Corporate,2009-02-28,2012-04-09,6
+787,Victoria Wilson,109,8,42960.68,4,4,5,445,High-Value (Champions),Home Office,2009-03-20,2012-09-13,1
+788,Vivek Gonzalez,395,5,7054.69,1,3,2,132,At-Risk Customers,Consumer,2010-04-23,2011-12-02,6
+789,Vivek Grady,41,12,27147.0255,5,5,4,554,High-Value (Champions),Home Office,2009-02-12,2012-11-20,1
+790,Vivek Sundaresam,17,8,12155.528,5,4,3,543,Loyal Customers,Home Office,2010-03-24,2012-12-14,2
+791,Vivian Mathis,55,11,29420.89,5,5,5,555,High-Value (Champions),Home Office,2009-06-02,2012-11-06,1
+792,William Brown,11,15,38872.59,5,5,5,555,High-Value (Champions),Corporate,2009-03-23,2012-12-20,1
+793,Xylona Price,25,7,18037.0855,5,4,3,543,Loyal Customers,Corporate,2009-01-16,2012-12-06,2
+794,Yana Sorensen,133,6,1987.1599999999999,3,3,1,331,Potential Loyalists,Corporate,2009-01-09,2012-08-20,3
+795,Yoseph Carroll,74,7,10535.318,4,4,2,442,Loyal Customers,Consumer,2009-04-29,2012-10-18,2

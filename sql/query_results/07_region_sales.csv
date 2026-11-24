@@ -1,0 +1,14 @@
+region,province,revenue,profit,margin_pct,revenue_rank,margin_rank
+Ontario,Ontario,3063212.48,346868.54,11.32,1,4
+West,British Columbia,1892757.78,145062.13,7.66,2,9
+West,Alberta,1704791.49,151946.48,8.91,3,8
+Quebec,Quebec,1510195.08,140426.65,9.3,4,7
+Prairie,Saskatchewan,1464455.82,184732.96,12.61,5,2
+Prairie,Manitoba,1372848.78,136427.16,9.94,6,6
+Yukon,Yukon,975867.37,73849.21,7.57,7,11
+Atlantic,Nova Scotia,817729.36,85361.87,10.44,8,5
+Northwest Territories,Northwest Territories,800847.33,100653.08,12.57,9,3
+Atlantic,New Brunswick,684211.52,115351.94,16.86,10,1
+Atlantic,Prince Edward Island,409383.25,31361.71,7.66,11,10
+Nunavut,Nunavut,116376.48,2841.11,2.44,12,13
+Atlantic,Newfoundland,102924.07,6885.14,6.69,13,12

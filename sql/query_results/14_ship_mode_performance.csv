@@ -1,0 +1,4 @@
+ship_mode,line_items,revenue,shipping_cost,margin_pct,avg_ship_days
+Regular Air,6270,7506303.21,48008.19,14.72,2.04
+Delivery Truck,1146,6224878.72,51971.94,4.33,2.04
+Express Air,983,1184418.9,7850.91,12.45,2.0

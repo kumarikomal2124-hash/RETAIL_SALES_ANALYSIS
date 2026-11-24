@@ -1,0 +1,178 @@
+{
+  "raw_rows": 8400,
+  "raw_columns": 21,
+  "clean_rows": 8399,
+  "clean_columns": 38,
+  "date_min": "2009-01-01",
+  "date_max": "2012-12-30",
+  "n_orders": 5496,
+  "n_customers": 795,
+  "n_products": 1263,
+  "n_categories": 3,
+  "n_sub_categories": 17,
+  "n_provinces": 13,
+  "n_regions": 8,
+  "base_margin_imputed": 63,
+  "spelling_fixes": 2619,
+  "neg_profit_share_pct": 50.8,
+  "multi_customer_orders": 21,
+  "multi_province_customers": 426,
+  "sales_outliers": 1042,
+  "sales_outlier_revenue_share_pct": 63.4,
+  "ship_delay_anomalies": 3,
+  "sales_to_gross_median_ratio": 1.004,
+  "validation": [
+    {
+      "rule": "quantity > 0",
+      "rows_failing": 0,
+      "status": "PASS"
+    },
+    {
+      "rule": "sales > 0",
+      "rows_failing": 0,
+      "status": "PASS"
+    },
+    {
+      "rule": "unit_price > 0",
+      "rows_failing": 0,
+      "status": "PASS"
+    },
+    {
+      "rule": "0 <= discount <= 1",
+      "rows_failing": 0,
+      "status": "PASS"
+    },
+    {
+      "rule": "shipping_cost >= 0",
+      "rows_failing": 0,
+      "status": "PASS"
+    },
+    {
+      "rule": "0 <= product_base_margin <= 1",
+      "rows_failing": 0,
+      "status": "PASS"
+    },
+    {
+      "rule": "ship_date >= order_date",
+      "rows_failing": 0,
+      "status": "PASS"
+    }
+  ],
+  "outliers": [
+    {
+      "column": "sales",
+      "lower_bound": -2205.99,
+      "upper_bound": 4058.51,
+      "outliers": 1042,
+      "pct": 12.4
+    },
+    {
+      "column": "profit",
+      "lower_bound": -452.41,
+      "upper_bound": 531.85,
+      "outliers": 1704,
+      "pct": 20.3
+    },
+    {
+      "column": "unit_price",
+      "lower_bound": -112.78,
+      "upper_bound": 205.25,
+      "outliers": 848,
+      "pct": 10.1
+    },
+    {
+      "column": "quantity",
+      "lower_bound": -24.5,
+      "upper_bound": 75.5,
+      "outliers": 0,
+      "pct": 0.0
+    },
+    {
+      "column": "shipping_cost",
+      "lower_bound": -12.74,
+      "upper_bound": 30.03,
+      "outliers": 972,
+      "pct": 11.6
+    }
+  ],
+  "log": [
+    {
+      "step": "Load",
+      "detail": "Loaded raw file with 8400 rows and 21 columns (Mac Roman encoding, CR line endings).",
+      "rows_before": null,
+      "rows_after": 8400
+    },
+    {
+      "step": "Rename",
+      "detail": "Converted column names to snake_case; renamed order_quantity->quantity, product_category->category, product_sub_category->sub_category, customer_segment->segment.",
+      "rows_before": null,
+      "rows_after": null
+    },
+    {
+      "step": "Whitespace",
+      "detail": "Trimmed leading/trailing spaces in 13 text value(s).",
+      "rows_before": null,
+      "rows_after": null
+    },
+    {
+      "step": "Empty rows",
+      "detail": "Removed 1 completely empty row(s).",
+      "rows_before": 8400,
+      "rows_after": 8399
+    },
+    {
+      "step": "Spelling",
+      "detail": "Corrected 2619 misspelled location values (Saskachewan->Saskatchewan, Prarie->Prairie).",
+      "rows_before": null,
+      "rows_after": null
+    },
+    {
+      "step": "Data types",
+      "detail": "Converted row_id, order_id and quantity to integers; order_date and ship_date to datetime (format %m/%d/%Y); 8 descriptive columns to category type.",
+      "rows_before": null,
+      "rows_after": null
+    },
+    {
+      "step": "Duplicates",
+      "detail": "Exact duplicates: 0; duplicate row_id: 0; business duplicates: 0. Removed 0 row(s).",
+      "rows_before": 8399,
+      "rows_after": 8399
+    },
+    {
+      "step": "Missing values",
+      "detail": "Imputed 63 missing product_base_margin values (0 from the same product, 63 from the sub-category median); added flag column base_margin_imputed.",
+      "rows_before": null,
+      "rows_after": null
+    },
+    {
+      "step": "Validation",
+      "detail": "quantity > 0: 0 failing; sales > 0: 0 failing; unit_price > 0: 0 failing; 0 <= discount <= 1: 0 failing; shipping_cost >= 0: 0 failing; 0 <= product_base_margin <= 1: 0 failing; ship_date >= order_date: 0 failing",
+      "rows_before": null,
+      "rows_after": null
+    },
+    {
+      "step": "Data characteristics",
+      "detail": "50.8% of line items have negative profit (kept, valid business outcome). 21 order_ids map to >1 customer; 426 customers appear in >1 province, so segment/province are treated as transaction attributes.",
+      "rows_before": null,
+      "rows_after": null
+    },
+    {
+      "step": "Outliers",
+      "detail": "IQR rule: 1042 sales outliers (63.4% of revenue) and 1704 profit outliers retained and flagged; 3 shipments >30 days flagged as ship-delay anomalies.",
+      "rows_before": null,
+      "rows_after": null
+    },
+    {
+      "step": "Derived columns",
+      "detail": "Created gross_sales, discount_pct, discount_amount, profit_margin_pct, order_year, order_quarter, order_month, month_name, year_month, ship_days, profit_status, discount_band, price_band. Revenue analysis uses the original sales column (median sales/gross_sales ratio = 1.004).",
+      "rows_before": null,
+      "rows_after": null
+    },
+    {
+      "step": "Save",
+      "detail": "Saved cleaned dataset: 8399 rows x 38 columns -> dataset/cleaned_data.csv",
+      "rows_before": null,
+      "rows_after": 8399
+    }
+  ]
+}

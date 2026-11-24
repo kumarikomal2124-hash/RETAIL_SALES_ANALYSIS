@@ -1,0 +1,1436 @@
+{
+  "kpis": {
+    "total_revenue": 14915600.82,
+    "total_profit": 1521767.98,
+    "profit_margin_pct": 10.2,
+    "total_orders": 5496,
+    "total_line_items": 8399,
+    "total_units": 214777,
+    "total_customers": 795,
+    "total_products": 1263,
+    "avg_order_value": 2713.9,
+    "median_order_value": 899.44,
+    "avg_items_per_order": 1.53,
+    "avg_discount_pct": 4.97,
+    "total_shipping_cost": 107831.04,
+    "loss_line_share_pct": 50.8,
+    "avg_ship_days": 2.03
+  },
+  "yearly": [
+    {
+      "order_year": 2009,
+      "revenue": 4209139.46,
+      "profit": 434538.73,
+      "orders": 1394,
+      "units": 54380,
+      "margin_pct": 10.32,
+      "aov": 3019.47,
+      "revenue_growth_pct": NaN
+    },
+    {
+      "order_year": 2010,
+      "revenue": 3549680.8,
+      "profit": 363871.48,
+      "orders": 1393,
+      "units": 54384,
+      "margin_pct": 10.25,
+      "aov": 2548.23,
+      "revenue_growth_pct": -15.67
+    },
+    {
+      "order_year": 2011,
+      "revenue": 3436816.7,
+      "profit": 381455.99,
+      "orders": 1317,
+      "units": 51564,
+      "margin_pct": 11.1,
+      "aov": 2609.58,
+      "revenue_growth_pct": -3.18
+    },
+    {
+      "order_year": 2012,
+      "revenue": 3719963.86,
+      "profit": 341901.78,
+      "orders": 1392,
+      "units": 54449,
+      "margin_pct": 9.19,
+      "aov": 2672.39,
+      "revenue_growth_pct": 8.24
+    }
+  ],
+  "monthly": {
+    "best_month": "Jan 2009",
+    "best_month_revenue": 516302.96,
+    "worst_month": "Jun 2011",
+    "worst_month_revenue": 197740.85,
+    "avg_monthly_revenue": 310741.68,
+    "monthly_cv_pct": 20.5,
+    "loss_months": 0
+  },
+  "seasonality": {
+    "strongest_calendar_month": "December",
+    "weakest_calendar_month": "June",
+    "quarter_share_pct": {
+      "Q1": 26.1,
+      "Q2": 22.9,
+      "Q3": 24.1,
+      "Q4": 26.9
+    }
+  },
+  "category": [
+    {
+      "category": "Technology",
+      "revenue": 5984248.18,
+      "profit": 886313.52,
+      "units": 52175,
+      "line_items": 2065,
+      "margin_pct": 14.81,
+      "revenue_share_pct": 40.12,
+      "profit_share_pct": 58.24
+    },
+    {
+      "category": "Furniture",
+      "revenue": 5178590.54,
+      "profit": 117433.03,
+      "units": 44324,
+      "line_items": 1724,
+      "margin_pct": 2.27,
+      "revenue_share_pct": 34.72,
+      "profit_share_pct": 7.72
+    },
+    {
+      "category": "Office Supplies",
+      "revenue": 3752762.1,
+      "profit": 518021.43,
+      "units": 118278,
+      "line_items": 4610,
+      "margin_pct": 13.8,
+      "revenue_share_pct": 25.16,
+      "profit_share_pct": 34.04
+    }
+  ],
+  "sub_category": [
+    {
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "revenue": 1896008.14,
+      "profit": -99062.5,
+      "units": 9195,
+      "avg_discount": 0.05,
+      "margin_pct": -5.22
+    },
+    {
+      "category": "Furniture",
+      "sub_category": "Bookcases",
+      "revenue": 822652.04,
+      "profit": -33582.13,
+      "units": 4891,
+      "avg_discount": 0.05,
+      "margin_pct": -4.08
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Scissors, Rulers and Trimmers",
+      "revenue": 80996.31,
+      "profit": -7799.25,
+      "units": 3931,
+      "avg_discount": 0.05,
+      "margin_pct": -9.63
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Rubber Bands",
+      "revenue": 15006.63,
+      "profit": -102.67,
+      "units": 4920,
+      "avg_discount": 0.05,
+      "margin_pct": -0.68
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Storage & Organization",
+      "revenue": 1070182.6,
+      "profit": 6664.15,
+      "units": 13804,
+      "avg_discount": 0.05,
+      "margin_pct": 0.62
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Pens & Art Supplies",
+      "revenue": 167107.22,
+      "profit": 7564.78,
+      "units": 16980,
+      "avg_discount": 0.05,
+      "margin_pct": 4.53
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Labels",
+      "revenue": 38981.55,
+      "profit": 13677.17,
+      "units": 7301,
+      "avg_discount": 0.05,
+      "margin_pct": 35.09
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Paper",
+      "revenue": 446452.86,
+      "profit": 45263.2,
+      "units": 30871,
+      "avg_discount": 0.05,
+      "margin_pct": 10.14
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Envelopes",
+      "revenue": 174085.8,
+      "profit": 48182.6,
+      "units": 6578,
+      "avg_discount": 0.05,
+      "margin_pct": 27.68
+    },
+    {
+      "category": "Technology",
+      "sub_category": "Computer Peripherals",
+      "revenue": 795875.94,
+      "profit": 94287.48,
+      "units": 19222,
+      "avg_discount": 0.05,
+      "margin_pct": 11.85
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Appliances",
+      "revenue": 736991.54,
+      "profit": 97158.06,
+      "units": 10901,
+      "avg_discount": 0.05,
+      "margin_pct": 13.18
+    },
+    {
+      "category": "Furniture",
+      "sub_category": "Office Furnishings",
+      "revenue": 698093.81,
+      "profit": 100427.93,
+      "units": 20648,
+      "avg_discount": 0.05,
+      "margin_pct": 14.39
+    },
+    {
+      "category": "Furniture",
+      "sub_category": "Chairs & Chairmats",
+      "revenue": 1761836.55,
+      "profit": 149649.73,
+      "units": 9590,
+      "avg_discount": 0.05,
+      "margin_pct": 8.49
+    },
+    {
+      "category": "Technology",
+      "sub_category": "Copiers and Fax",
+      "revenue": 1130361.3,
+      "profit": 167361.49,
+      "units": 2128,
+      "avg_discount": 0.05,
+      "margin_pct": 14.81
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Binders and Binder Accessories",
+      "revenue": 1022957.59,
+      "profit": 307413.39,
+      "units": 22992,
+      "avg_discount": 0.05,
+      "margin_pct": 30.05
+    },
+    {
+      "category": "Technology",
+      "sub_category": "Office Machines",
+      "revenue": 2168697.14,
+      "profit": 307712.93,
+      "units": 7856,
+      "avg_discount": 0.05,
+      "margin_pct": 14.19
+    },
+    {
+      "category": "Technology",
+      "sub_category": "Telephones and Communication",
+      "revenue": 1889313.8,
+      "profit": 316951.62,
+      "units": 22969,
+      "avg_discount": 0.05,
+      "margin_pct": 16.78
+    }
+  ],
+  "top10_products_revenue": [
+    {
+      "product_name": "Global Troy\u2122 Executive Leather Low-Back Tilter",
+      "category": "Furniture",
+      "sub_category": "Chairs & Chairmats",
+      "revenue": 275941.52,
+      "profit": 79284.78,
+      "units": 550,
+      "orders": 17,
+      "margin_pct": 28.73
+    },
+    {
+      "product_name": "Polycom ViewStation\u2122 ISDN Videoconferencing Unit",
+      "category": "Technology",
+      "sub_category": "Office Machines",
+      "revenue": 255303.97,
+      "profit": -17771.27,
+      "units": 41,
+      "orders": 7,
+      "margin_pct": -6.96
+    },
+    {
+      "product_name": "Canon PC940 Copier",
+      "category": "Technology",
+      "sub_category": "Copiers and Fax",
+      "revenue": 210910.68,
+      "profit": 47705.85,
+      "units": 474,
+      "orders": 18,
+      "margin_pct": 22.62
+    },
+    {
+      "product_name": "Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",
+      "category": "Furniture",
+      "sub_category": "Bookcases",
+      "revenue": 206494.13,
+      "profit": 14291.57,
+      "units": 236,
+      "orders": 11,
+      "margin_pct": 6.92
+    },
+    {
+      "product_name": "Hewlett Packard LaserJet 3310 Copier",
+      "category": "Technology",
+      "sub_category": "Copiers and Fax",
+      "revenue": 194880.35,
+      "profit": 73299.61,
+      "units": 334,
+      "orders": 10,
+      "margin_pct": 37.61
+    },
+    {
+      "product_name": "Bretford CR8500 Series Meeting Room Furniture",
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "revenue": 147412.21,
+      "profit": -1989.87,
+      "units": 407,
+      "orders": 14,
+      "margin_pct": -1.35
+    },
+    {
+      "product_name": "Sharp AL-1530CS Digital Copier",
+      "category": "Technology",
+      "sub_category": "Copiers and Fax",
+      "revenue": 130046.81,
+      "profit": 11770.3,
+      "units": 260,
+      "orders": 11,
+      "margin_pct": 9.05
+    },
+    {
+      "product_name": "Hewlett-Packard cp1700 [D, PS] Series Color Inkjet Printers",
+      "category": "Technology",
+      "sub_category": "Office Machines",
+      "revenue": 128100.43,
+      "profit": 55281.39,
+      "units": 269,
+      "orders": 10,
+      "margin_pct": 43.15
+    },
+    {
+      "product_name": "GBC DocuBind 200 Manual Binding Machine",
+      "category": "Office Supplies",
+      "sub_category": "Binders and Binder Accessories",
+      "revenue": 120342.74,
+      "profit": 50462.53,
+      "units": 286,
+      "orders": 16,
+      "margin_pct": 41.93
+    },
+    {
+      "product_name": "Canon imageCLASS 2200 Advanced Copier",
+      "category": "Technology",
+      "sub_category": "Copiers and Fax",
+      "revenue": 114173.41,
+      "profit": -31885.68,
+      "units": 32,
+      "orders": 7,
+      "margin_pct": -27.93
+    }
+  ],
+  "top10_products_units": [
+    {
+      "product_name": "Global High-Back Leather Tilter, Burgundy",
+      "category": "Furniture",
+      "sub_category": "Chairs & Chairmats",
+      "revenue": 82752.2,
+      "profit": -30518.9,
+      "units": 666,
+      "orders": 24,
+      "margin_pct": -36.88
+    },
+    {
+      "product_name": "Bevis 36 x 72 Conference Tables",
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "revenue": 74365.63,
+      "profit": -7492.89,
+      "units": 619,
+      "orders": 22,
+      "margin_pct": -10.08
+    },
+    {
+      "product_name": "Wilson Jones Hanging View Binder, White, 1\"",
+      "category": "Office Supplies",
+      "sub_category": "Binders and Binder Accessories",
+      "revenue": 4259.71,
+      "profit": -1377.27,
+      "units": 585,
+      "orders": 21,
+      "margin_pct": -32.33
+    },
+    {
+      "product_name": "Global Troy\u2122 Executive Leather Low-Back Tilter",
+      "category": "Furniture",
+      "sub_category": "Chairs & Chairmats",
+      "revenue": 275941.52,
+      "profit": 79284.78,
+      "units": 550,
+      "orders": 17,
+      "margin_pct": 28.73
+    },
+    {
+      "product_name": "80 Minute CD-R Spindle, 100/Pack - Staples",
+      "category": "Technology",
+      "sub_category": "Computer Peripherals",
+      "revenue": 21617.03,
+      "profit": 5534.41,
+      "units": 546,
+      "orders": 20,
+      "margin_pct": 25.6
+    },
+    {
+      "product_name": "Memorex 4.7GB DVD+RW, 3/Pack",
+      "category": "Technology",
+      "sub_category": "Computer Peripherals",
+      "revenue": 15221.28,
+      "profit": 5579.35,
+      "units": 546,
+      "orders": 19,
+      "margin_pct": 36.65
+    },
+    {
+      "product_name": "Bell Sonecor JB700 Caller ID",
+      "category": "Technology",
+      "sub_category": "Telephones and Communication",
+      "revenue": 3692.88,
+      "profit": -1859.0,
+      "units": 537,
+      "orders": 19,
+      "margin_pct": -50.34
+    },
+    {
+      "product_name": "Master Giant Foot\u00ae Doorstop, Safety Yellow",
+      "category": "Furniture",
+      "sub_category": "Office Furnishings",
+      "revenue": 4039.33,
+      "profit": 396.36,
+      "units": 529,
+      "orders": 22,
+      "margin_pct": 9.81
+    },
+    {
+      "product_name": "BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables",
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "revenue": 104483.14,
+      "profit": -14938.68,
+      "units": 516,
+      "orders": 22,
+      "margin_pct": -14.3
+    },
+    {
+      "product_name": "#10- 4 1/8\" x 9 1/2\" Recycled Envelopes",
+      "category": "Office Supplies",
+      "sub_category": "Envelopes",
+      "revenue": 4481.17,
+      "profit": -833.12,
+      "units": 504,
+      "orders": 17,
+      "margin_pct": -18.59
+    }
+  ],
+  "top10_products_profit": [
+    {
+      "product_name": "Global Troy\u2122 Executive Leather Low-Back Tilter",
+      "category": "Furniture",
+      "sub_category": "Chairs & Chairmats",
+      "revenue": 275941.52,
+      "profit": 79284.78,
+      "units": 550,
+      "orders": 17,
+      "margin_pct": 28.73
+    },
+    {
+      "product_name": "Hewlett Packard LaserJet 3310 Copier",
+      "category": "Technology",
+      "sub_category": "Copiers and Fax",
+      "revenue": 194880.35,
+      "profit": 73299.61,
+      "units": 334,
+      "orders": 10,
+      "margin_pct": 37.61
+    },
+    {
+      "product_name": "Hewlett-Packard cp1700 [D, PS] Series Color Inkjet Printers",
+      "category": "Technology",
+      "sub_category": "Office Machines",
+      "revenue": 128100.43,
+      "profit": 55281.39,
+      "units": 269,
+      "orders": 10,
+      "margin_pct": 43.15
+    },
+    {
+      "product_name": "GBC DocuBind 200 Manual Binding Machine",
+      "category": "Office Supplies",
+      "sub_category": "Binders and Binder Accessories",
+      "revenue": 120342.74,
+      "profit": 50462.53,
+      "units": 286,
+      "orders": 16,
+      "margin_pct": 41.93
+    },
+    {
+      "product_name": "Canon PC940 Copier",
+      "category": "Technology",
+      "sub_category": "Copiers and Fax",
+      "revenue": 210910.68,
+      "profit": 47705.85,
+      "units": 474,
+      "orders": 18,
+      "margin_pct": 22.62
+    },
+    {
+      "product_name": "Fellowes PB300 Plastic Comb Binding Machine",
+      "category": "Office Supplies",
+      "sub_category": "Binders and Binder Accessories",
+      "revenue": 106908.29,
+      "profit": 45927.85,
+      "units": 276,
+      "orders": 9,
+      "margin_pct": 42.96
+    },
+    {
+      "product_name": "Hewlett-Packard Deskjet 1220Cse Color Inkjet Printer",
+      "category": "Technology",
+      "sub_category": "Office Machines",
+      "revenue": 112417.21,
+      "profit": 44740.41,
+      "units": 292,
+      "orders": 9,
+      "margin_pct": 39.8
+    },
+    {
+      "product_name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+      "category": "Office Supplies",
+      "sub_category": "Binders and Binder Accessories",
+      "revenue": 79968.65,
+      "profit": 32566.56,
+      "units": 62,
+      "orders": 5,
+      "margin_pct": 40.72
+    },
+    {
+      "product_name": "GBC DocuBind TL300 Electric Binding System",
+      "category": "Office Supplies",
+      "sub_category": "Binders and Binder Accessories",
+      "revenue": 85955.6,
+      "profit": 32022.88,
+      "units": 99,
+      "orders": 7,
+      "margin_pct": 37.26
+    },
+    {
+      "product_name": "Smead Adjustable Mobile File Trolley with Lockable Top",
+      "category": "Office Supplies",
+      "sub_category": "Storage & Organization",
+      "revenue": 109416.56,
+      "profit": 31939.21,
+      "units": 261,
+      "orders": 11,
+      "margin_pct": 29.19
+    }
+  ],
+  "bottom10_products_profit": [
+    {
+      "product_name": "Okidata Pacemark 4410N Wide Format Dot Matrix Printer",
+      "category": "Technology",
+      "sub_category": "Office Machines",
+      "revenue": 60619.66,
+      "profit": -43949.37,
+      "units": 18,
+      "orders": 6,
+      "margin_pct": -72.5
+    },
+    {
+      "product_name": "Canon imageCLASS 2200 Advanced Copier",
+      "category": "Technology",
+      "sub_category": "Copiers and Fax",
+      "revenue": 114173.41,
+      "profit": -31885.68,
+      "units": 32,
+      "orders": 7,
+      "margin_pct": -27.93
+    },
+    {
+      "product_name": "Global High-Back Leather Tilter, Burgundy",
+      "category": "Furniture",
+      "sub_category": "Chairs & Chairmats",
+      "revenue": 82752.2,
+      "profit": -30518.9,
+      "units": 666,
+      "orders": 24,
+      "margin_pct": -36.88
+    },
+    {
+      "product_name": "Epson DFX-8500 Dot Matrix Printer",
+      "category": "Technology",
+      "sub_category": "Office Machines",
+      "revenue": 85975.08,
+      "profit": -29400.34,
+      "units": 35,
+      "orders": 7,
+      "margin_pct": -34.2
+    },
+    {
+      "product_name": "Hoover Portapower\u2122 Portable Vacuum",
+      "category": "Office Supplies",
+      "sub_category": "Appliances",
+      "revenue": 2946.43,
+      "profit": -21088.48,
+      "units": 465,
+      "orders": 18,
+      "margin_pct": -715.73
+    },
+    {
+      "product_name": "Polycom ViewStation\u2122 ISDN Videoconferencing Unit",
+      "category": "Technology",
+      "sub_category": "Office Machines",
+      "revenue": 255303.97,
+      "profit": -17771.27,
+      "units": 41,
+      "orders": 7,
+      "margin_pct": -6.96
+    },
+    {
+      "product_name": "Epson DFX5000+ Dot Matrix Printer",
+      "category": "Technology",
+      "sub_category": "Office Machines",
+      "revenue": 20835.42,
+      "profit": -16160.74,
+      "units": 14,
+      "orders": 5,
+      "margin_pct": -77.56
+    },
+    {
+      "product_name": "KI Conference Tables",
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "revenue": 23289.69,
+      "profit": -15701.27,
+      "units": 323,
+      "orders": 13,
+      "margin_pct": -67.42
+    },
+    {
+      "product_name": "Lexmark 4227 Plus Dot Matrix Printer",
+      "category": "Technology",
+      "sub_category": "Office Machines",
+      "revenue": 59735.01,
+      "profit": -15492.81,
+      "units": 32,
+      "orders": 6,
+      "margin_pct": -25.94
+    },
+    {
+      "product_name": "BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables",
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "revenue": 104483.14,
+      "profit": -14938.68,
+      "units": 516,
+      "orders": 22,
+      "margin_pct": -14.3
+    }
+  ],
+  "province": [
+    {
+      "region": "Ontario",
+      "province": "Ontario",
+      "revenue": 3063212.48,
+      "profit": 346868.54,
+      "orders": 1235,
+      "customers": 281,
+      "margin_pct": 11.32,
+      "aov": 2480.33,
+      "revenue_share_pct": 20.54
+    },
+    {
+      "region": "West",
+      "province": "British Columbia",
+      "revenue": 1892757.78,
+      "profit": 145062.13,
+      "orders": 748,
+      "customers": 203,
+      "margin_pct": 7.66,
+      "aov": 2530.42,
+      "revenue_share_pct": 12.69
+    },
+    {
+      "region": "West",
+      "province": "Alberta",
+      "revenue": 1704791.49,
+      "profit": 151946.48,
+      "orders": 590,
+      "customers": 122,
+      "margin_pct": 8.91,
+      "aov": 2889.48,
+      "revenue_share_pct": 11.43
+    },
+    {
+      "region": "Quebec",
+      "province": "Quebec",
+      "revenue": 1510195.08,
+      "profit": 140426.65,
+      "orders": 587,
+      "customers": 170,
+      "margin_pct": 9.3,
+      "aov": 2572.73,
+      "revenue_share_pct": 10.12
+    },
+    {
+      "region": "Prairie",
+      "province": "Saskatchewan",
+      "revenue": 1464455.82,
+      "profit": 184732.96,
+      "orders": 610,
+      "customers": 116,
+      "margin_pct": 12.61,
+      "aov": 2400.75,
+      "revenue_share_pct": 9.82
+    },
+    {
+      "region": "Prairie",
+      "province": "Manitoba",
+      "revenue": 1372848.78,
+      "profit": 136427.16,
+      "orders": 541,
+      "customers": 146,
+      "margin_pct": 9.94,
+      "aov": 2537.61,
+      "revenue_share_pct": 9.2
+    },
+    {
+      "region": "Yukon",
+      "province": "Yukon",
+      "revenue": 975867.37,
+      "profit": 73849.21,
+      "orders": 396,
+      "customers": 107,
+      "margin_pct": 7.57,
+      "aov": 2464.31,
+      "revenue_share_pct": 6.54
+    },
+    {
+      "region": "Atlantic",
+      "province": "Nova Scotia",
+      "revenue": 817729.36,
+      "profit": 85361.87,
+      "orders": 347,
+      "customers": 156,
+      "margin_pct": 10.44,
+      "aov": 2356.57,
+      "revenue_share_pct": 5.48
+    },
+    {
+      "region": "Northwest Territories",
+      "province": "Northwest Territories",
+      "revenue": 800847.33,
+      "profit": 100653.08,
+      "orders": 269,
+      "customers": 62,
+      "margin_pct": 12.57,
+      "aov": 2977.13,
+      "revenue_share_pct": 5.37
+    },
+    {
+      "region": "Atlantic",
+      "province": "New Brunswick",
+      "revenue": 684211.52,
+      "profit": 115351.94,
+      "orders": 222,
+      "customers": 44,
+      "margin_pct": 16.86,
+      "aov": 3082.03,
+      "revenue_share_pct": 4.59
+    },
+    {
+      "region": "Atlantic",
+      "province": "Prince Edward Island",
+      "revenue": 409383.25,
+      "profit": 31361.71,
+      "orders": 139,
+      "customers": 39,
+      "margin_pct": 7.66,
+      "aov": 2945.2,
+      "revenue_share_pct": 2.74
+    },
+    {
+      "region": "Nunavut",
+      "province": "Nunavut",
+      "revenue": 116376.48,
+      "profit": 2841.11,
+      "orders": 56,
+      "customers": 38,
+      "margin_pct": 2.44,
+      "aov": 2078.15,
+      "revenue_share_pct": 0.78
+    },
+    {
+      "region": "Atlantic",
+      "province": "Newfoundland",
+      "revenue": 102924.07,
+      "profit": 6885.14,
+      "orders": 76,
+      "customers": 54,
+      "margin_pct": 6.69,
+      "aov": 1354.26,
+      "revenue_share_pct": 0.69
+    }
+  ],
+  "region": [
+    {
+      "region": "West",
+      "revenue": 3597549.28,
+      "profit": 297008.61,
+      "orders": 1330,
+      "margin_pct": 8.26
+    },
+    {
+      "region": "Ontario",
+      "revenue": 3063212.48,
+      "profit": 346868.54,
+      "orders": 1235,
+      "margin_pct": 11.32
+    },
+    {
+      "region": "Prairie",
+      "revenue": 2837304.6,
+      "profit": 321160.12,
+      "orders": 1148,
+      "margin_pct": 11.32
+    },
+    {
+      "region": "Atlantic",
+      "revenue": 2014248.2,
+      "profit": 238960.66,
+      "orders": 748,
+      "margin_pct": 11.86
+    },
+    {
+      "region": "Quebec",
+      "revenue": 1510195.08,
+      "profit": 140426.65,
+      "orders": 587,
+      "margin_pct": 9.3
+    },
+    {
+      "region": "Yukon",
+      "revenue": 975867.37,
+      "profit": 73849.21,
+      "orders": 396,
+      "margin_pct": 7.57
+    },
+    {
+      "region": "Northwest Territories",
+      "revenue": 800847.33,
+      "profit": 100653.08,
+      "orders": 269,
+      "margin_pct": 12.57
+    },
+    {
+      "region": "Nunavut",
+      "revenue": 116376.48,
+      "profit": 2841.11,
+      "orders": 56,
+      "margin_pct": 2.44
+    }
+  ],
+  "region_category_profit": {
+    "Furniture": {
+      "West": 30924.64,
+      "Ontario": 19886.91,
+      "Prairie": 30551.22,
+      "Atlantic": 15345.65,
+      "Quebec": -760.77,
+      "Yukon": 10555.26,
+      "Northwest Territories": 7451.24,
+      "Nunavut": 3478.88
+    },
+    "Office Supplies": {
+      "West": 116666.85,
+      "Ontario": 153212.76,
+      "Prairie": 83259.7,
+      "Atlantic": 66970.47,
+      "Quebec": 42982.17,
+      "Yukon": 21059.44,
+      "Northwest Territories": 36994.06,
+      "Nunavut": -3124.02
+    },
+    "Technology": {
+      "West": 149417.12,
+      "Ontario": 173768.87,
+      "Prairie": 207349.2,
+      "Atlantic": 156644.54,
+      "Quebec": 98205.25,
+      "Yukon": 42234.51,
+      "Northwest Territories": 56207.78,
+      "Nunavut": 2486.25
+    }
+  },
+  "segment": [
+    {
+      "segment": "Corporate",
+      "revenue": 5498904.88,
+      "profit": 599746.0,
+      "orders": 2002,
+      "customers": 353,
+      "aov": 2746.71,
+      "margin_pct": 10.91,
+      "revenue_share_pct": 36.87
+    },
+    {
+      "segment": "Home Office",
+      "revenue": 3564763.88,
+      "profit": 318354.03,
+      "orders": 1341,
+      "customers": 246,
+      "aov": 2658.29,
+      "margin_pct": 8.93,
+      "revenue_share_pct": 23.9
+    },
+    {
+      "segment": "Consumer",
+      "revenue": 3063611.08,
+      "profit": 287959.94,
+      "orders": 1076,
+      "customers": 197,
+      "aov": 2847.22,
+      "margin_pct": 9.4,
+      "revenue_share_pct": 20.54
+    },
+    {
+      "segment": "Small Business",
+      "revenue": 2788320.99,
+      "profit": 315708.01,
+      "orders": 1077,
+      "customers": 193,
+      "aov": 2588.97,
+      "margin_pct": 11.32,
+      "revenue_share_pct": 18.69
+    }
+  ],
+  "customers": {
+    "n_customers": 795,
+    "repeat_customer_pct": 98.6,
+    "one_time_customers": 11,
+    "avg_orders_per_customer": 6.94,
+    "median_orders_per_customer": 6.0,
+    "top20pct_customer_revenue_share": 46.5,
+    "avg_revenue_per_customer": 18761.76,
+    "loss_making_customers": 225
+  },
+  "top10_customers": [
+    {
+      "customer_name": "Emily Phan",
+      "revenue": 117124.44,
+      "profit": 34005.44,
+      "orders": 8,
+      "cum_share": 0.79
+    },
+    {
+      "customer_name": "Deborah Brumfield",
+      "revenue": 97433.14,
+      "profit": 31121.22,
+      "orders": 12,
+      "cum_share": 1.44
+    },
+    {
+      "customer_name": "Roy Skaria",
+      "revenue": 92542.15,
+      "profit": 1343.94,
+      "orders": 18,
+      "cum_share": 2.06
+    },
+    {
+      "customer_name": "Sylvia Foulston",
+      "revenue": 88875.76,
+      "profit": 5141.9,
+      "orders": 18,
+      "cum_share": 2.65
+    },
+    {
+      "customer_name": "Grant Carroll",
+      "revenue": 88417.0,
+      "profit": 27977.29,
+      "orders": 17,
+      "cum_share": 3.25
+    },
+    {
+      "customer_name": "Alejandro Grove",
+      "revenue": 83561.93,
+      "profit": 20588.92,
+      "orders": 9,
+      "cum_share": 3.81
+    },
+    {
+      "customer_name": "Darren Budd",
+      "revenue": 81577.34,
+      "profit": 1857.66,
+      "orders": 26,
+      "cum_share": 4.35
+    },
+    {
+      "customer_name": "Julia Barnett",
+      "revenue": 80044.45,
+      "profit": -1956.09,
+      "orders": 12,
+      "cum_share": 4.89
+    },
+    {
+      "customer_name": "John Lucas",
+      "revenue": 79696.19,
+      "profit": 12725.08,
+      "orders": 14,
+      "cum_share": 5.43
+    },
+    {
+      "customer_name": "Liz MacKendrick",
+      "revenue": 76306.43,
+      "profit": 20397.24,
+      "orders": 14,
+      "cum_share": 5.94
+    }
+  ],
+  "ship_mode": [
+    {
+      "ship_mode": "Delivery Truck",
+      "revenue": 6224878.72,
+      "profit": 269644.87,
+      "line_items": 1146,
+      "shipping_cost": 51971.94,
+      "avg_ship_days": 2.04,
+      "margin_pct": 4.33,
+      "shipping_cost_pct_of_sales": 0.83
+    },
+    {
+      "ship_mode": "Express Air",
+      "revenue": 1184418.9,
+      "profit": 147430.31,
+      "line_items": 983,
+      "shipping_cost": 7850.91,
+      "avg_ship_days": 2.0,
+      "margin_pct": 12.45,
+      "shipping_cost_pct_of_sales": 0.66
+    },
+    {
+      "ship_mode": "Regular Air",
+      "revenue": 7506303.21,
+      "profit": 1104692.8,
+      "line_items": 6270,
+      "shipping_cost": 48008.19,
+      "avg_ship_days": 2.04,
+      "margin_pct": 14.72,
+      "shipping_cost_pct_of_sales": 0.64
+    }
+  ],
+  "order_priority": [
+    {
+      "order_priority": "Critical",
+      "revenue": 2724798.67,
+      "profit": 182876.87,
+      "orders": 1090,
+      "margin_pct": 6.71
+    },
+    {
+      "order_priority": "High",
+      "revenue": 3267356.36,
+      "profit": 407069.65,
+      "orders": 1137,
+      "margin_pct": 12.46
+    },
+    {
+      "order_priority": "Low",
+      "revenue": 3282630.38,
+      "profit": 386184.9,
+      "orders": 1124,
+      "margin_pct": 11.76
+    },
+    {
+      "order_priority": "Medium",
+      "revenue": 2862452.12,
+      "profit": 327051.73,
+      "orders": 1075,
+      "margin_pct": 11.43
+    },
+    {
+      "order_priority": "Not Specified",
+      "revenue": 2778363.3,
+      "profit": 218584.83,
+      "orders": 1080,
+      "margin_pct": 7.87
+    }
+  ],
+  "discount": [
+    {
+      "discount_band": "0-2%",
+      "line_items": 2327,
+      "revenue": 4344048.33,
+      "profit": 536894.93,
+      "loss_lines": 1098,
+      "margin_pct": 12.36,
+      "loss_line_pct": 47.19
+    },
+    {
+      "discount_band": "3-5%",
+      "line_items": 2335,
+      "revenue": 4082476.7,
+      "profit": 479477.3,
+      "loss_lines": 1139,
+      "margin_pct": 11.74,
+      "loss_line_pct": 48.78
+    },
+    {
+      "discount_band": "6-8%",
+      "line_items": 2209,
+      "revenue": 3983044.76,
+      "profit": 317327.63,
+      "loss_lines": 1170,
+      "margin_pct": 7.97,
+      "loss_line_pct": 52.97
+    },
+    {
+      "discount_band": "9%+",
+      "line_items": 1528,
+      "revenue": 2506031.03,
+      "profit": 188068.12,
+      "loss_lines": 857,
+      "margin_pct": 7.5,
+      "loss_line_pct": 56.09
+    }
+  ],
+  "discount_profit_corr": -0.084,
+  "shipping_cost_band": [
+    {
+      "ship_cost_band": "Q1 (lowest)",
+      "revenue": 8298666.84,
+      "profit": 1631789.82,
+      "loss_share": 22.95,
+      "margin_pct": 19.66
+    },
+    {
+      "ship_cost_band": "Q2",
+      "revenue": 3928924.78,
+      "profit": 393384.5,
+      "loss_share": 29.21,
+      "margin_pct": 10.01
+    },
+    {
+      "ship_cost_band": "Q3",
+      "revenue": 2008199.95,
+      "profit": -162352.4,
+      "loss_share": 54.81,
+      "margin_pct": -8.08
+    },
+    {
+      "ship_cost_band": "Q4 (highest)",
+      "revenue": 679809.26,
+      "profit": -341053.94,
+      "loss_share": 96.37,
+      "margin_pct": -50.17
+    }
+  ],
+  "price_band": [
+    {
+      "price_band": "Budget (<$20)",
+      "revenue": 827044.84,
+      "profit": -111928.9,
+      "units": 104487,
+      "loss_share": 62.71,
+      "margin_pct": -13.53
+    },
+    {
+      "price_band": "Mid ($20-100)",
+      "revenue": 2909895.62,
+      "profit": 218503.25,
+      "units": 63071,
+      "loss_share": 39.09,
+      "margin_pct": 7.51
+    },
+    {
+      "price_band": "Upper ($100-500)",
+      "revenue": 8293500.27,
+      "profit": 1070958.49,
+      "units": 43415,
+      "loss_share": 40.4,
+      "margin_pct": 12.91
+    },
+    {
+      "price_band": "Premium ($500+)",
+      "revenue": 2885160.1,
+      "profit": 344235.14,
+      "units": 3804,
+      "loss_share": 40.61,
+      "margin_pct": 11.93
+    }
+  ],
+  "abc": [
+    {
+      "abc_class": "A",
+      "products": 291,
+      "revenue": 11921069.48,
+      "profit": 1443761.89,
+      "units": 62791,
+      "product_share_pct": 23.04,
+      "revenue_share_pct": 79.92
+    },
+    {
+      "abc_class": "B",
+      "products": 336,
+      "revenue": 2247988.84,
+      "profit": 185425.84,
+      "units": 60669,
+      "product_share_pct": 26.6,
+      "revenue_share_pct": 15.07
+    },
+    {
+      "abc_class": "C",
+      "products": 636,
+      "revenue": 746542.51,
+      "profit": -107419.75,
+      "units": 91317,
+      "product_share_pct": 50.36,
+      "revenue_share_pct": 5.01
+    }
+  ],
+  "inventory": {
+    "slow_movers_count": 141,
+    "slow_movers_revenue_share_pct": 2.72,
+    "high_volume_loss_count": 140,
+    "high_volume_loss_total": -356518.83,
+    "erratic_A_count": 169,
+    "median_demand_cv": 1.87,
+    "fast_movers": [
+      {
+        "product_name": "Crayola Colored Pencils",
+        "category": "Office Supplies",
+        "units": 70,
+        "units_per_month": 70.0,
+        "demand_cv": 4.0,
+        "abc_class": "C",
+        "margin_pct": 17.95
+      },
+      {
+        "product_name": "Round Specialty Laser Printer Labels",
+        "category": "Office Supplies",
+        "units": 65,
+        "units_per_month": 65.0,
+        "demand_cv": 4.0,
+        "abc_class": "C",
+        "margin_pct": 50.59
+      },
+      {
+        "product_name": "Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24\" Deep, Sand",
+        "category": "Office Supplies",
+        "units": 76,
+        "units_per_month": 64.26,
+        "demand_cv": 4.0,
+        "abc_class": "B",
+        "margin_pct": -13.79
+      },
+      {
+        "product_name": "Sterilite Officeware Hinged File Box",
+        "category": "Office Supplies",
+        "units": 63,
+        "units_per_month": 63.0,
+        "demand_cv": 4.0,
+        "abc_class": "C",
+        "margin_pct": -30.38
+      },
+      {
+        "product_name": "Staples Premium Bright 1-Part Blank Computer Paper",
+        "category": "Office Supplies",
+        "units": 56,
+        "units_per_month": 56.0,
+        "demand_cv": 4.0,
+        "abc_class": "C",
+        "margin_pct": 6.49
+      },
+      {
+        "product_name": "Eldon\u00ae 200 Class\u2122 Desk Accessories",
+        "category": "Furniture",
+        "units": 55,
+        "units_per_month": 55.0,
+        "demand_cv": 4.0,
+        "abc_class": "C",
+        "margin_pct": -28.12
+      },
+      {
+        "product_name": "R289LX",
+        "category": "Technology",
+        "units": 48,
+        "units_per_month": 48.0,
+        "demand_cv": 4.0,
+        "abc_class": "B",
+        "margin_pct": 21.64
+      },
+      {
+        "product_name": "Sanford Uni-Blazer\u2122 View Highlighters, Chisel Tip, Yellow",
+        "category": "Office Supplies",
+        "units": 48,
+        "units_per_month": 48.0,
+        "demand_cv": 4.0,
+        "abc_class": "C",
+        "margin_pct": 4.08
+      },
+      {
+        "product_name": "Acco Smartsocket\u2122 Table Surge Protector, 6 Color-Coded Adapter Outlets",
+        "category": "Office Supplies",
+        "units": 47,
+        "units_per_month": 47.0,
+        "demand_cv": 4.0,
+        "abc_class": "C",
+        "margin_pct": 31.58
+      },
+      {
+        "product_name": "Electrix Incandescent Magnifying Lamp, Black",
+        "category": "Furniture",
+        "units": 47,
+        "units_per_month": 47.0,
+        "demand_cv": 4.0,
+        "abc_class": "C",
+        "margin_pct": -27.34
+      }
+    ],
+    "high_volume_loss_top10": [
+      {
+        "product_name": "Global High-Back Leather Tilter, Burgundy",
+        "category": "Furniture",
+        "sub_category": "Chairs & Chairmats",
+        "units": 666,
+        "revenue": 82752.2,
+        "profit": -30518.9,
+        "margin_pct": -36.88
+      },
+      {
+        "product_name": "Hoover Portapower\u2122 Portable Vacuum",
+        "category": "Office Supplies",
+        "sub_category": "Appliances",
+        "units": 465,
+        "revenue": 2946.43,
+        "profit": -21088.48,
+        "margin_pct": -715.73
+      },
+      {
+        "product_name": "KI Conference Tables",
+        "category": "Furniture",
+        "sub_category": "Tables",
+        "units": 323,
+        "revenue": 23289.69,
+        "profit": -15701.27,
+        "margin_pct": -67.42
+      },
+      {
+        "product_name": "BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables",
+        "category": "Furniture",
+        "sub_category": "Tables",
+        "units": 516,
+        "revenue": 104483.14,
+        "profit": -14938.68,
+        "margin_pct": -14.3
+      },
+      {
+        "product_name": "Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",
+        "category": "Furniture",
+        "sub_category": "Tables",
+        "units": 320,
+        "revenue": 21903.78,
+        "profit": -14415.82,
+        "margin_pct": -65.81
+      },
+      {
+        "product_name": "Hon iLevel\u2122 Computer Training Table",
+        "category": "Furniture",
+        "sub_category": "Tables",
+        "units": 379,
+        "revenue": 11799.02,
+        "profit": -13214.76,
+        "margin_pct": -112.0
+      },
+      {
+        "product_name": "Tennsco Lockers, Gray",
+        "category": "Office Supplies",
+        "sub_category": "Storage & Organization",
+        "units": 267,
+        "revenue": 6058.66,
+        "profit": -12469.63,
+        "margin_pct": -205.81
+      },
+      {
+        "product_name": "Bevis Steel Folding Chairs",
+        "category": "Furniture",
+        "sub_category": "Chairs & Chairmats",
+        "units": 341,
+        "revenue": 38856.9,
+        "profit": -10251.77,
+        "margin_pct": -26.38
+      },
+      {
+        "product_name": "Bush Mission Pointe Library",
+        "category": "Furniture",
+        "sub_category": "Bookcases",
+        "units": 442,
+        "revenue": 65244.45,
+        "profit": -10219.79,
+        "margin_pct": -15.66
+      },
+      {
+        "product_name": "Bush Westfield Collection Bookcases, Dark Cherry Finish, Fully Assembled",
+        "category": "Furniture",
+        "sub_category": "Bookcases",
+        "units": 237,
+        "revenue": 24189.28,
+        "profit": -10096.55,
+        "margin_pct": -41.74
+      }
+    ]
+  },
+  "correlation_with_profit": {
+    "quantity": 0.238,
+    "unit_price": 0.227,
+    "discount": -0.073,
+    "shipping_cost": -0.193,
+    "product_base_margin": -0.203,
+    "sales": 0.325,
+    "ship_days": 0.014
+  }
+}

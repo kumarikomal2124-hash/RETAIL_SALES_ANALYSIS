@@ -1,0 +1,14 @@
+step,detail,rows_before,rows_after
+Load,"Loaded raw file with 8400 rows and 21 columns (Mac Roman encoding, CR line endings).",,8400.0
+Rename,"Converted column names to snake_case; renamed order_quantity->quantity, product_category->category, product_sub_category->sub_category, customer_segment->segment.",,
+Whitespace,Trimmed leading/trailing spaces in 13 text value(s).,,
+Empty rows,Removed 1 completely empty row(s).,8400.0,8399.0
+Spelling,"Corrected 2619 misspelled location values (Saskachewan->Saskatchewan, Prarie->Prairie).",,
+Data types,"Converted row_id, order_id and quantity to integers; order_date and ship_date to datetime (format %m/%d/%Y); 8 descriptive columns to category type.",,
+Duplicates,Exact duplicates: 0; duplicate row_id: 0; business duplicates: 0. Removed 0 row(s).,8399.0,8399.0
+Missing values,"Imputed 63 missing product_base_margin values (0 from the same product, 63 from the sub-category median); added flag column base_margin_imputed.",,
+Validation,quantity > 0: 0 failing; sales > 0: 0 failing; unit_price > 0: 0 failing; 0 <= discount <= 1: 0 failing; shipping_cost >= 0: 0 failing; 0 <= product_base_margin <= 1: 0 failing; ship_date >= order_date: 0 failing,,
+Data characteristics,"50.8% of line items have negative profit (kept, valid business outcome). 21 order_ids map to >1 customer; 426 customers appear in >1 province, so segment/province are treated as transaction attributes.",,
+Outliers,IQR rule: 1042 sales outliers (63.4% of revenue) and 1704 profit outliers retained and flagged; 3 shipments >30 days flagged as ship-delay anomalies.,,
+Derived columns,"Created gross_sales, discount_pct, discount_amount, profit_margin_pct, order_year, order_quarter, order_month, month_name, year_month, ship_days, profit_status, discount_band, price_band. Revenue analysis uses the original sales column (median sales/gross_sales ratio = 1.004).",,
+Save,Saved cleaned dataset: 8399 rows x 38 columns -> dataset/cleaned_data.csv,,8399.0

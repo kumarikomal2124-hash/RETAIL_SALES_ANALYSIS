@@ -1,0 +1,5 @@
+table_name,row_count
+fact_sales,8399
+dim_customer,795
+dim_product,1263
+dim_location,13

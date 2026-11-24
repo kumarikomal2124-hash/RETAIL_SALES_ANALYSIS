@@ -1,0 +1,16 @@
+# Retail Shop Analysis - Python dependencies
+# Install with:  pip install -r requirements.txt
+# Tested with Python 3.13 and the versions in brackets.
+
+pandas>=2.1          # (3.0.5) data loading, cleaning, aggregation
+numpy>=1.26          # (2.5.3) numerical operations
+matplotlib>=3.9      # (3.11.2) charts
+seaborn>=0.13        # (0.13.2) heatmaps / statistical plots
+scipy>=1.11          # (1.18.1) Spearman correlation
+jupyter>=1.0         # notebook environment (Jupyter Notebook / JupyterLab)
+nbformat>=5.9        # (5.11.1) used by run_pipeline.py to execute notebooks
+nbconvert>=7.0       # (7.17.2) used by run_pipeline.py to execute notebooks
+ipykernel>=6.0       # (7.4.0) Python kernel for notebooks
+tabulate>=0.9        # (0.10.0) Markdown tables in SQL result summary
+python-docx>=1.1     # (1.2.0) generates the Word project report
+openpyxl>=3.1        # (3.1.5) optional: open/save Excel files with pandas
